@@ -1,0 +1,219 @@
+aopalliance;aopalliance;1.0;Public Domain
+asm;asm;3.1;INRIA, France Telecom License (2000-2011)
+c3p0;c3p0;0.9.1.1;GNU Lesser General Public License
+cglib;cglib-nodep;2.2;The Apache Software License, Version 2.0
+cglib;cglib;2.2;The Apache Software License, Version 2.0
+ch.qos.logback;logback-classic;1.0.13;Eclipse Public License, Version 1.0
+ch.qos.logback;logback-classic;1.0.13;GNU Lesser General Public License
+ch.qos.logback;logback-core;1.0.13;Eclipse Public License, Version 1.0
+ch.qos.logback;logback-core;1.0.13;GNU Lesser General Public License
+com.google.code.findbugs;annotations;2.0.1;GNU Lesser Public License
+com.google.code.findbugs;jsr305;2.0.1;The Apache Software License, Version 2.0
+com.google.guava;guava;14.0.1;The Apache Software License, Version 2.0
+com.hybris.cis;hybris-cis-api-avs;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-fraud;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-geolocation;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-payment;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-shared;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-shipping;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-subscription;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-api-tax;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-common;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-geolocation-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-payment-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-rest-common;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-shipping-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.cis;hybris-cis-tax-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-configuration;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-context;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-conversion;5.1.1;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-dto;5.1.1;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-mock;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-rest-resources;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-security;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-tenant-rest-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-commons-tenant;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-jersey-client;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-jersey-server;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-logging;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-spring-security;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-spring;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-web;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.commons;hybris-deps-zookeeper;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.kernel;init-app-api;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;init-app-rest-client;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;init-app;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;jdbc-engine;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-aggregation;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-api;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-cache;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-metadata;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-persistence;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-scheduler;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-service;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-type-system;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;kernel-utils;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.kernel;mongodb-engine;5.1.0.2;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-api;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-domain-objects;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-export-api;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-export-facade;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-export-rest-resources;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-export-service;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-facade;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-rest-resources;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-service;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-ui-api;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-ui-facade;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-ui-rest-resources;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.oms;oms-ui-service;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-configurationservice-api;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-configurationservice-node-properties;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-configurationservice-node-spi;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-configurationservice-node-zookeeper;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-descriptor;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-registry;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-rest;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-web;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.serviceprovider;serviceprovider-zookeeper;5.1.0;hybris Commercial License, Version 1.0
+com.hybris.usermanagement;usermanagement-web-authorization;5.1.1;hybris Commercial License, Version 1.0
+com.hybris;omsy-api;1.0-SNAPSHOT;hybris Commercial License, Version 1.0
+com.hybris;omsy-service;1.0-SNAPSHOT;hybris Commercial License, Version 1.0
+com.hybris;omsy-web;1.0-SNAPSHOT;hybris Commercial License, Version 1.0
+com.jolbox;bonecp;0.7.1.RELEASE;The Apache Software License, Version 2.0
+com.netflix.curator;curator-client;1.2.6;The Apache Software License, Version 2.0
+com.netflix.curator;curator-framework;1.2.6;The Apache Software License, Version 2.0
+com.sun.jersey.contribs;jersey-apache-client;1.13;CDDL 1.1
+com.sun.jersey.contribs;jersey-apache-client;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey.contribs;jersey-multipart;1.13;CDDL 1.1
+com.sun.jersey.contribs;jersey-multipart;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey.contribs;jersey-spring;1.13;CDDL 1.1
+com.sun.jersey.contribs;jersey-spring;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-bundle;1.13;CDDL 1.1
+com.sun.jersey;jersey-bundle;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-client;1.13;CDDL 1.1
+com.sun.jersey;jersey-client;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-core;1.11;CDDL 1.1
+com.sun.jersey;jersey-core;1.11;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-core;1.13;CDDL 1.1
+com.sun.jersey;jersey-core;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-json;1.13;CDDL 1.1
+com.sun.jersey;jersey-json;1.13;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-server;1.11;CDDL 1.1
+com.sun.jersey;jersey-server;1.11;GNU General Public License - Version 2 / CPE
+com.sun.jersey;jersey-servlet;1.11;CDDL 1.1
+com.sun.jersey;jersey-servlet;1.11;GNU General Public License - Version 2 / CPE
+com.sun.xml.bind;jaxb-impl;2.2.3;CDDL 1.1
+com.sun.xml.bind;jaxb-impl;2.2.3;GNU General Public License - Version 2 / CPE
+commons-beanutils;commons-beanutils-core;1.8.3;The Apache Software License, Version 2.0
+commons-beanutils;commons-beanutils;1.8.3;The Apache Software License, Version 2.0
+commons-betwixt;commons-betwixt;0.8;The Apache Software License, Version 2.0
+commons-codec;commons-codec;1.6;The Apache Software License, Version 2.0
+commons-collections;commons-collections;3.2.1;The Apache Software License, Version 2.0
+commons-configuration;commons-configuration;1.9;The Apache Software License, Version 2.0
+commons-dbcp;commons-dbcp;1.4;The Apache Software License, Version 2.0
+commons-digester;commons-digester;1.7;The Apache Software License, Version 2.0
+commons-fileupload;commons-fileupload;1.2.2;The Apache Software License, Version 2.0
+commons-httpclient;commons-httpclient;3.1;The Apache Software License, Version 2.0
+commons-io;commons-io;2.4;The Apache Software License, Version 2.0
+commons-lang;commons-lang;2.6;The Apache Software License, Version 2.0
+commons-logging;commons-logging-api;1.0.4;The Apache Software License, Version 2.0
+commons-logging;commons-logging;1.1.2;The Apache Software License, Version 2.0
+commons-pool;commons-pool;1.2;The Apache Software License, Version 2.0
+de.dev-eth0.dummycreator;dummy-creator;1.2;Common Development and Distribution License
+dom4j;dom4j;1.6.1;Copyright 2001-2005 (C) MetaStuff, Ltd.
+javassist;javassist;3.12.1.GA;Mozilla Public License version 1.1
+javassist;javassist;3.12.1.GA;GNU Lesser General Public License (LGPL), Version 2.1
+javax.activation;activation;1.1;Common Public License Version 1.0
+javax.annotation;jsr250-api;1.0;Common Public License Version 1.0
+javax.mail;mail;1.4.5;CDDL License
+javax.mail;mail;1.4.5;GNU General Public License - Version 2 / CPE
+javax.servlet;jstl;1.1.2;CDDL - Version 1.1 / GNU General Public License - Version 2
+javax.validation;validation-api;1.0.0.GA;The Apache Software License, Version 2.0
+javax.ws.rs;jsr311-api;1.1.1;CDDL License
+javax.xml.stream;stax-api;1.0-2;GNU General Public Library
+javax.xml.stream;stax-api;1.0-2;Common Public License Version 1.0
+jline;jline;0.9.94;The BSD License
+joda-time;joda-time;2.2;The Apache Software License, Version 2.0
+junit;junit;4.11;Common Public License Version 1.0
+log4j;log4j;1.2.16;The Apache Software License, Version 2.0
+net.sf.ehcache;ehcache-core;2.5.1;The Apache Software License, Version 2.0
+net.sf.flexjson;flexjson;2.1;The Apache Software License, Version 2.0
+net.sourceforge.javacsv;javacsv;2.0;GNU Library or Lesser General Public License
+net.sourceforge.saxon;saxon;9.1.0.8;Mozilla Public License Version 1.0
+org.activiti;activiti-bpmn-converter;5.13;The Apache Software License, Version 2.0
+org.activiti;activiti-bpmn-model;5.13;The Apache Software License, Version 2.0
+org.activiti;activiti-engine;5.13;The Apache Software License, Version 2.0
+org.activiti;activiti-spring;5.13;The Apache Software License, Version 2.0
+org.apache.bval;bval-core;0.4;The Apache Software License, Version 2.0
+org.apache.bval;bval-jsr303;0.4;The Apache Software License, Version 2.0
+org.apache.commons;commons-email;1.2;The Apache Software License, Version 2.0
+org.apache.commons;commons-lang3;3.1;The Apache Software License, Version 2.0
+org.apache.ddlutils;ddlutils;1.0;The Apache Software License, Version 2.0
+org.apache.santuario;xmlsec;1.5.1;The Apache Software License, Version 2.0
+org.apache.ws.security;wss4j;1.6.5;The Apache Software License, Version 2.0
+org.apache.zookeeper;zookeeper;3.4.5;The Apache Software License, Version 2.0
+org.aspectj;aspectjrt;1.7.1;Eclipse Public License, Version 1.0
+org.aspectj;aspectjweaver;1.7.1;Eclipse Public License, Version 1.0
+org.codehaus.enunciate;enunciate-core-annotations;1.27;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-core-asl;1.9.3;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-core-asl;1.9.9;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-jaxrs;1.9.3;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-jaxrs;1.9.3;GNU Lesser General Public License (LGPL), Version 2.1
+org.codehaus.jackson;jackson-mapper-asl;1.9.2;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-xc;1.9.3;The Apache Software License, Version 2.0
+org.codehaus.jackson;jackson-xc;1.9.3;GNU Lesser General Public License (LGPL), Version 2.1
+org.codehaus.jettison;jettison;1.1;The Apache Software License, Version 2.0
+org.codemonkey.javareflection;java-reflection;1.1;MIT license
+org.easymock;easymock;3.0;The Apache Software License, Version 2.0
+org.hamcrest;hamcrest-core;1.3;New BSD License
+org.hsqldb;hsqldb;2.3.0;HSQLDB License, a BSD open source license
+org.jboss.netty;netty;3.2.2.Final;The Apache Software License, Version 2.0
+org.jgroups;jgroups;3.4.0.Final;The Apache Software License, Version 2.0
+org.jvnet;mimepull;1.6;CDDL - Version 1.1 / GNU General Public License - Version 2
+org.mockito;mockito-all;1.9.0;The MIT License
+org.mongodb;mongo-java-driver;2.11.2;The Apache Software License, Version 2.0
+org.mybatis;mybatis;3.2.2;The Apache Software License, Version 2.0
+org.objenesis;objenesis;1.2;The Apache Software License, Version 2.0
+org.opensaml;opensaml;2.5.1-1;The Apache Software License, Version 2.0
+org.opensaml;openws;1.4.2-1;The Apache Software License, Version 2.0
+org.opensaml;xmltooling;1.3.2-1;The Apache Software License, Version 2.0
+org.quartz-scheduler;quartz-oracle;2.1.7;The Apache Software License, Version 2.0
+org.quartz-scheduler;quartz;2.1.7;The Apache Software License, Version 2.0
+org.reflections;reflections;0.9.8;WTFPL
+org.slf4j;jcl-over-slf4j;1.7.5;The MIT License
+org.slf4j;jul-to-slf4j;1.7.5;The MIT License
+org.slf4j;log4j-over-slf4j;1.7.5;Apache Software Licenses
+org.slf4j;slf4j-api;1.7.5;The MIT License
+org.springframework.security;spring-security-config;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework.security;spring-security-core;3.1.0.RELEASE;The Apache Software License, Version 2.0
+org.springframework.security;spring-security-core;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework.security;spring-security-crypto;3.1.0.RELEASE;The Apache Software License, Version 2.0
+org.springframework.security;spring-security-web;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework.ws;spring-ws-core;2.1.0.RELEASE;The Apache Software License, Version 2.0
+org.springframework.ws;spring-ws-security;2.1.0.RELEASE;The Apache Software License, Version 2.0
+org.springframework.ws;spring-xml;2.1.0.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-aop;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-asm;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-aspects;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-beans;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-context-support;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-context;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-core;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-expression;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-jdbc;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-orm;3.1.2.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-oxm;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-tx;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-web;3.1.3.RELEASE;The Apache Software License, Version 2.0
+org.springframework;spring-webmvc;3.1.3.RELEASE;The Apache Software License, Version 2.0
+oro;oro;2.0.8;The Apache Software License, Version 1.1
+stax;stax-api;1.0.1;The Apache Software License, Version 2.0
+taglibs;c;1.1.2;The Apache Software License, Version 2.0
+taglibs;fmt;1.1.2;The Apache Software License, Version 2.0
+taglibs;standard;1.1.2;The Apache Software License, Version 2.0
+wsdl4j;wsdl4j;1.6.1;Common Public License Version 1.0
+xml-apis;xml-apis;1.4.01;The Apache Software License, Version 2.0
+xml-apis;xml-apis;1.4.01;The SAX License
+xml-apis;xml-apis;1.4.01;The W3C License

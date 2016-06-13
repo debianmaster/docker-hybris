@@ -1,0 +1,1158 @@
+acceleratorfacades;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+acceleratorfacades;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+acceleratorfacades;The Apache Software License, Version 2.0;Spring Mobile Device Resolution Support;org.springframework.mobile;spring-mobile-device;1.0.1.RELEASE;https://github.com/SpringSource/spring-mobile
+acceleratorfacades;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorfacades;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+acceleratorservices/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+acceleratorservices/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+acceleratorservices/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+acceleratorservices/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+acceleratorservices/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+acceleratorservices/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+acceleratorservices;ASF 2.0 License;oro;oro;oro;2.0.8;http://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE
+acceleratorservices;Apache Software License, Version 1.1;sslext;sslext;sslext;1.; - no url defined
+acceleratorservices;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mrz;no url defined
+acceleratorservices;The Apache Software License, Version 2.0;Apache Velocity;org.apache.velocity;velocity;01.06.2002;http://velocity.apache.org/engine/releases/velocity-1.6.2/
+acceleratorservices;The Apache Software License, Version 2.0;Collections;commons-collections;commons-collections;03. Feb;http://jakarta.apache.org/commons/collections/
+acceleratorservices;The Apache Software License, Version 2.0;Commons Chain;commons-chain;commons-chain;01. Jan;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+acceleratorservices;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Apr;http://commons.apache.org/lang/
+acceleratorservices;The Apache Software License, Version 2.0;Commons Net;commons-net;commons-net;3.0.1;http://commons.apache.org/net/
+acceleratorservices;The Apache Software License, Version 2.0;Digester;commons-digester;commons-digester;01. Aug;http://jakarta.apache.org/commons/digester/
+acceleratorservices;The Apache Software License, Version 2.0;Logging;commons-logging;commons-logging;01. Jan;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+acceleratorservices;The Apache Software License, Version 2.0;Struts Core;org.apache.struts;struts-core;01.03.2008;http://struts.apache.org
+acceleratorservices;The Apache Software License, Version 2.0;Struts Taglib;org.apache.struts;struts-taglib;01.03.2008;http://struts.apache.org
+acceleratorservices;The Apache Software License, Version 2.0;Struts Tiles;org.apache.struts;struts-tiles;01.03.2008;http://struts.apache.org
+acceleratorservices;The Apache Software License, Version 2.0;Validator;commons-validator;commons-validator;01.03.2001;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+acceleratorservices;The Apache Software License, Version 2.0;VelocityTools;org.apache.velocity;velocity-tools;2.0;http://velocity.apache.org/tools/devel/
+acceleratorservices;Unknown license;antlr;antlr;antlr;02.07.2002;no url defined
+acceleratorservices;Unknown license;commons-beanutils;commons-beanutils;commons-beanutils;01.07.2000;no url defined
+acceleratorservices;Unknown license;dom4j;dom4j;dom4j;01. Jan;no url defined
+amazoncloud;Apache License, Version 2.0;An open source Java toolkit for Amazon S3;net.java.dev.jets3t;jets3t;0.9.0;http://www.jets3t.org
+amazoncloud;Apache License, Version 2.0;java-xmlbuilder;com.jamesmurty.utils;java-xmlbuilder;0.4;http://code.google.com/p/java-xmlbuilder/
+amazoncloud;Apache License;HttpClient;org.apache.httpcomponents;httpclient;04. Feb;http://hc.apache.org/httpcomponents-client
+amazoncloud;Apache License;HttpCore;org.apache.httpcomponents;httpcore;04. Feb;http://hc.apache.org/httpcomponents-core-ga
+amazoncloud;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jun;http://commons.apache.org/codec/
+amazoncloud;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+azurecloud;CDDL 1.1(GPL2 w/ CPE);JAXB API bundle for GlassFish V3;javax.xml.bind;jaxb-api;02.02.2002;https://jaxb.dev.java.net/
+azurecloud;CDDL 1.1(GPL2 w/ CPE);JAXB RI;com.sun.xml.bind;jaxb-impl;2.2.;http://jaxb.java.net/
+azurecloud;CDDL 1.1(GPL2 w/ CPE);jersey-client;com.sun.jersey;jersey-client;1.102;https://jersey.java.net/jersey-client/
+azurecloud;CDDL 1.1(GPL2 w/ CPE);jersey-core;com.sun.jersey;jersey-core;1.102;https://jersey.java.net/jersey-core/
+azurecloud;CDDL 1.1(GPL2 w/ CPE);jersey-json;com.sun.jersey;jersey-json;1.102;https://jersey.java.net/jersey-json/
+azurecloud;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+azurecloud;Common Development and Distribution License (CDDL;v1.0) JavaMail API;javax.mail;mail;01. Apr;https://glassfish.dev.java.net/javaee5/mail/
+azurecloud;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+azurecloud;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);JAX-RS provider for JSON content type;org.codehaus.jackson;jackson-jaxrs;01.08.2003;http://jackson.codehaus.org
+azurecloud;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);Xml Compatibility extensions for Jackson;org.codehaus.jackson;jackson-xc;01.08.2003;http://jackson.codehaus.org
+azurecloud;The Apache Software License, Version 2.0;Commons Lang;org.apache.commons;commons-lang3;03. Jan;http://commons.apache.org/lang/
+azurecloud;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+azurecloud;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.08.2003;http://jackson.codehaus.org
+azurecloud;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.08.2003;http://jackson.codehaus.org
+azurecloud;The Apache Software License, Version 2.0;Microsoft Windows Azure Client API;com.microsoft.windowsazure;microsoft-windowsazure-api;0.2.2;https://github.com/WindowsAzure/azure-sdk-for-java
+azurecloud;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+azurecloud;The Apache Software License, Version 2.0;javax.inject;javax.inject;javax.inject;1;http://code.google.com/p/atinject/
+azurecloud;Unknown license;Jettison;org.codehaus.jettison;jettison;01. Jan;no url defined
+azurecloud;Unknown license;powermock-mockito-release-full;de.hybris.external;powermock-mockito-release-full;01.04.2012;no url defined
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+b2ccheckoutaddon/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+b2ccheckoutaddon/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+b2ccheckoutaddon/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+backoffice/web-inf;Apache License, Version 2.0;JHLabs Image Processing Filters;com.jhlabs;filters;2.0.235;http://www.jhlabs.com/ip/index.html
+backoffice/web-inf;Apache License, Version 2.0;The ZK EL Library;org.zkoss.common;zel;6.5.1.1;http://www.zkoss.org/common
+backoffice/web-inf;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcmail-jdk14;138;http://www.bouncycastle.org/java.html
+backoffice/web-inf;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcprov-jdk14;138;http://www.bouncycastle.org/java.html
+backoffice/web-inf;CDDL 1.1(GPL2 w/ CPE);JAXB Reference Implementation;com.sun.xml.bind;jaxb-impl;2.2.;http://jaxb.java.net/
+backoffice/web-inf;CDDL 1.1(GPL2 w/ CPE);Java Architecture for XML Binding;javax.xml.bind;jaxb-api;02.02.2003;http://jaxb.java.net/
+backoffice/web-inf;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+backoffice/web-inf;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+backoffice/web-inf;GNU GENERAL PUBLIC LICENSE, Version 3;ZK Spring Core;org.zkoss.zk;zkspring-core;3.0;no url defined
+backoffice/web-inf;GNU GENERAL PUBLIC LICENSE, Version 3;ZK Spring Security;org.zkoss.zk;zkspring-security;3.0;no url defined
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;The ZKoss Common Library;org.zkoss.common;zcommon;6.5.1.1;http://www.zkoss.org/common
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;The ZKoss Web Library;org.zkoss.common;zweb;6.5.1.1;http://www.zkoss.org/web
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Bind;org.zkoss.zk;zkbind;6.5.1.1;http://www.zkoss.org/zkbind
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Kernel;org.zkoss.zk;zk;6.5.1.1;http://www.zkoss.org/zk
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Plus Utilities;org.zkoss.zk;zkplus;6.5.1.1;http://www.zkoss.org/zkplus
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Silvertail Theme;org.zkoss.theme;silvertail;6.5.1.1;http://www.zkoss.org/themes/silvertail
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK XHTML Components;org.zkoss.zk;zhtml;6.5.1.1;http://www.zkoss.org/zhtml
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK XUL Components;org.zkoss.zk;zul;6.5.1.1;http://www.zkoss.org/zul
+backoffice/web-inf;GNU LESSER GENERAL PUBLIC LICENSE;BeanShell;org.beanshell;bsh;2.0b4;no url defined
+backoffice/web-inf;GNU Lesser General Public Licence;JCommon;org.jfree;jcommon;1.0.17;http://www.jfree.org/jcommon/
+backoffice/web-inf;GNU Lesser General Public Licence;JFreeChart;org.jfree;jfreechart;1.0.14;http://www.jfree.org/jfreechart/
+backoffice/web-inf;GNU Lesser General Public Licence;jcommon;jfree;jcommon;1.0.15;http://www.jfree.org/jcommon/
+backoffice/web-inf;GNU Lesser General Public Licence;jfreechart;jfree;jfreechart;1.0.12;http://www.jfree.org/jfreechart/
+backoffice/web-inf;GNU Lesser General Public License (LGPL; Version 2.1) Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-lgpl;01.07.2004;http://jackson.codehaus.org
+backoffice/web-inf;GNU Lesser General Public License (LGPL; Version 2.1) Jackson;org.codehaus.jackson;jackson-core-lgpl;01.07.2004;http://jackson.codehaus.org
+backoffice/web-inf;GNU Lesser General Public License;JasperReports;net.sf.jasperreports;jasperreports;04.05.2001;http://jasperreports.sourceforge.net
+backoffice/web-inf;Mozilla Public License;iText, a Free Java-PDF library;com.lowagie;itext;02.01.2005;http://www.lowagie.com/iText/
+backoffice/web-inf;The Apache Software License, Version 1.1;ZK Commons EL;org.zkoss.zkforge.el;zcommons-el;01.01.2000;http://www.zkoss.org
+backoffice/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml-schemas;03. Jul;http://poi.apache.org/
+backoffice/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml;03. Jul;http://poi.apache.org/
+backoffice/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi;03. Jul;http://poi.apache.org/
+backoffice/web-inf;The Apache Software License, Version 2.0;Commons Digester;commons-digester;commons-digester;02. Jan;http://commons.apache.org/digester/
+backoffice/web-inf;The Apache Software License, Version 2.0;Commons FileUpload;commons-fileupload;commons-fileupload;01.02.2002;http://commons.apache.org/fileupload/
+backoffice/web-inf;The Apache Software License, Version 2.0;Commons Lang;org.apache.commons;commons-lang3;03. Jan;http://commons.apache.org/lang/
+backoffice/web-inf;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+backoffice/web-inf;The Apache Software License, Version 2.0;Streaming API for XML (STAX API 1.0);org.apache.geronimo.specs;geronimo-stax-api_1.0_spec;1.0;http://geronimo.apache.org/specs/geronimo-stax-api_1.0_spec
+backoffice/web-inf;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;01.03.2004;http://xml.apache.org/commons/components/external/
+backoffice/web-inf;The Apache Software License, Version 2.0;XmlBeans;org.apache.xmlbeans;xmlbeans;02.03.2000;http://xmlbeans.apache.org
+backoffice/web-inf;The W3C Software License;Simple API for CSS;org.w3c.css;sac;01. Mrz;http://www.w3.org/Style/CSS/SAC/
+backoffice/web-inf;Unknown license;Castor;org.codehaus.castor;castor;01. Feb;http://castor.org
+backoffice/web-inf;Unknown license;The Google Maps Component for ZK;org.zkoss.zkforge;gmapsz;3.0.0;http://www.zkoss.org
+backoffice/web-inf;Unknown license;ZK Enterprise Utilities;org.zkoss.zk;zkmax;6.5.1.1;http://www.zkoss.org/zkmax
+backoffice/web-inf;Unknown license;ZK Professional Utilities;org.zkoss.zk;zkex;6.5.1.1;http://www.zkoss.org/zkex
+backoffice/web-inf;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+basecommerce;MIT license;groboutils-core;net.sourceforge.groboutils;groboutils-core;5;http://groboutils.sourceforge.net/license.html
+basecommerce;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;1.0.b2;http://xml.apache.org/commons/#external
+basecommerce;Unknown license;Dumbster: Fake SMTP Server;dumbster;dumbster;01. Jun;no url defined
+basecommerce;Unknown license;JavaBeans Activation Framework (JAF);javax.activation;activation;1.0.2;http://java.sun.com/products/javabeans/jaf/index.jsp
+basecommerce;Unknown license;JavaMail API;javax.mail;mail;01.03.2002;http://java.sun.com/products/javamail/index.jsp
+basecommerce;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+basecommerce;Unknown license;geodesy;de.hybris.external;geodesy;1.0;no url defined
+bmecat/web-inf;Unknown license;jstl;javax.servlet;jstl;01.01.2000;no url defined
+bmecat/web-inf;Unknown license;standard;taglibs;standard;01.01.2002;no url defined
+captchaaddon/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+captchaaddon/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+captchaaddon/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+captchaaddon;Apache License, Version 2.0;ReCaptcha Java Library;net.tanesha.recaptcha4j;recaptcha4j;0.0.7;http://tanesha.net/projects/recaptcha4j/
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+chinacheckoutaddon/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+chinacheckoutaddon/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+chinacheckoutaddon/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;Spring WS Core;org.springframework.ws;spring-ws-core;2.1.0.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;Spring XML;org.springframework.ws;spring-xml;2.1.0.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;Apache 2;Joda time;joda-time;joda-time;01.06.2002;http://joda-time.sourceforge.net
+ciscommons;Apache 2;OpenSAML-J;org.opensaml;opensaml;2.5.;http://opensaml.org/
+ciscommons;Apache 2;OpenWS;org.opensaml;openws;1.4.;http://opensaml.org/
+ciscommons;Apache 2;XMLTooling-J;org.opensaml;xmltooling;1.3.;http://opensaml.org/
+ciscommons;Apache License v2;Not Yet Commons SSL;ca.juliusdavies;not-yet-commons-ssl;0.3.9;http://juliusdavies.ca/commons-ssl
+ciscommons;Apache License;HttpClient;commons-httpclient;commons-httpclient;03. Jan;http://jakarta.apache.org/httpcomponents/httpclient-3.x/
+ciscommons;Apache Software Licenses;Log4j Implemented Over SLF4J;org.slf4j;log4j-over-slf4j;01.06.2001;http://www.slf4j.org
+ciscommons;BSD(Creative Commons 3.0 BY-SA);ESAPI 2.0;org.owasp.esapi;esapi;2.0GA;http://www.esapi.org/
+ciscommons;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk15;Jan 45;http://www.bouncycastle.org/java.html
+ciscommons;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+ciscommons;CPL;WSDL4J;wsdl4j;wsdl4j;01.06.2001;http://sf.net/projects/wsdl4j
+ciscommons;Creative Commons Attribution License 2.5;Java Concurrency in Practice book annotations;net.jcip;jcip-annotations;1.0;http://jcip.net/
+ciscommons;Dual license consisting of the CDDL v1.1 and GPL v2;MIME streaming extension;org.jvnet;mimepull;01. Jun;no url defined
+ciscommons;MIT License;JCL 1.1.1 implemented over SLF4J;org.slf4j;jcl-over-slf4j;01.06.2001;http://www.slf4j.org
+ciscommons;MIT License;JUL to SLF4J bridge;org.slf4j;jul-to-slf4j;01.06.2001;http://www.slf4j.org
+ciscommons;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2001;http://slf4j.org/license.html
+ciscommons;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+ciscommons;The Apache Software License, Version 2.0(The SAX License)(The W3C License);XML Commons External Components XML APIs;xml-apis;xml-apis;01.04.2001;http://xml.apache.org/commons/components/external/
+ciscommons;The Apache Software License, Version 2.0;Apache Velocity;velocity;velocity;01. Mai;http://velocity.apache.org/engine/releases/velocity-1.5/
+ciscommons;The Apache Software License, Version 2.0;Apache XML Security for Java;org.apache.santuario;xmlsec;01.05.2001;http://santuario.apache.org/
+ciscommons;The Apache Software License, Version 2.0;Codec;commons-codec;commons-codec;01. Mrz;http://jakarta.apache.org/commons/codec/
+ciscommons;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+ciscommons;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Jan;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+ciscommons;The Apache Software License, Version 2.0;Spring WS Security;org.springframework.ws;spring-ws-security;2.1.0.RELEASE;http://static.springframework.org/spring-ws/site/index.html/spring-ws-security
+ciscommons;The Apache Software License, Version 2.0;WSS4J;org.apache.ws.security;wss4j;01.06.2005;http://ws.apache.org/wss4j/
+ciscommons;The Apache Software License, Version 2.0;XML Commons Resolver Component;xml-resolver;xml-resolver;01. Feb;http://xml.apache.org/commons/components/resolver/
+ciscommons;The Apache Software License, Version 2.0;Xalan Java Serializer;xalan;serializer;02.07.2001;http://xml.apache.org/xalan-j/
+ciscommons;The Apache Software License, Version 2.0;Xalan Java;xalan;xalan;02.07.2001;http://xml.apache.org/xalan-j/
+ciscommons;The Apache Software License, Version 2.0;Xerces2-j;xerces;xercesImpl;02.10.2000;https://xerces.apache.org/xerces2-j/
+ciscommons;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;The Apache Software License, Version 2.0;spring-oxm;org.springframework;spring-oxm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;The Apache Software License, Version 2.0;spring-security-crypto;org.springframework.security;spring-security-crypto;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;The Apache Software License, Version 2.0;spring-tx;org.springframework;spring-tx;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ciscommons;Unknown license;commons-collections;commons-collections;commons-collections;03. Jan;no url defined
+ciscommons;Unknown license;wsit-rt;com.sun.xml.wsit;wsit-rt;01. Jan;no url defined
+ciscommons;Unknown license;xws-security;com.sun.xml.wsit;xws-security;01.03.2001;no url defined
+cockpit;Artistic License;Display tag library;displaytag;displaytag;01. Feb;http://displaytag.sourceforge.net/displaytag
+cockpit;Bouncy Castle Licence;Bouncy Castle CMS and S/MIME API;org.bouncycastle;bcmail-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+cockpit;Bouncy Castle Licence;Bouncy Castle OpenPGP API;org.bouncycastle;bctsp-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+cockpit;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+cockpit;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcmail-jdk14;138;http://www.bouncycastle.org/java.html
+cockpit;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcprov-jdk14;138;http://www.bouncycastle.org/java.html
+cockpit;GNU Lesser General Public Licence;jcommon;jfree;jcommon;1.0.16;http://www.jfree.org/jcommon/
+cockpit;GNU Lesser General Public Licence;jfreechart;jfree;jfreechart;1.0.13;http://www.jfree.org/jfreechart/
+cockpit;GNU Lesser General Public License (LGPL;Version 2.1) JGraph;jgraph;jgraph;5.8.3.1;http://www.jgraph.com/
+cockpit;GNU Lesser General Public License;JasperReports;net.sf.jasperreports;jasperreports;4.0.2;http://jasperreports.sourceforge.net
+cockpit;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.04.2002;http://slf4j.org/license.html
+cockpit;MIT license;SLF4J LOG4J-12 Binding;org.slf4j;slf4j-log4j12;01.04.2002;http://slf4j.org/license.html
+cockpit;Mozilla Public License;iText, a Free Java-PDF library;com.lowagie;itext;02.01.2007;http://www.lowagie.com/iText/
+cockpit;The Apache Software License, Version 1.1;ZK Commons EL;org.zkoss.zkforge.el;zcommons-el;1.0.2;http://www.zkoss.org
+cockpit;The Apache Software License, Version 2.0;Digester;commons-digester;commons-digester;01. Jul;http://jakarta.apache.org/commons/digester/
+cockpit;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Mrz;http://jakarta.apache.org/commons/lang/
+cockpit;Unknown license;JCL Implemented Over SLF4J;org.slf4j;jcl104-over-slf4j;01.04.2002;http://www.slf4j.org
+cockpit;Unknown license;Log4j;log4j;log4j;01.02.2013;http://logging.apache.org/log4j/docs/
+cockpit;Unknown license;Logging;commons-logging;commons-logging;1.0.2;no url defined
+cockpit;Unknown license;TGGraphLayout-jre11;de.hybris.external;TGGraphLayout-jre11;Jan 22;no url defined
+cockpit;Unknown license;canvas;de.hybris.external.hy_patched;canvas;1.0;no url defined
+cockpit;Unknown license;commons-beanutils;commons-beanutils;commons-beanutils;01.07.2000;no url defined
+cockpit;Unknown license;commons-collections;commons-collections;commons-collections;03. Jan;no url defined
+cockpit;Unknown license;fckez;de.hybris.external.hy_patched;fckez;2.6.1_2;no url defined
+cockpit;Unknown license;jai-codec;de.hybris.external;jai-codec;01.01.2003;no url defined
+cockpit;Unknown license;jai_core;de.hybris.external;jai_core;01.01.2003;no url defined
+cockpit;Unknown license;jasperreports-fonts;de.hybris.external;jasperreports-fonts;4.0.2;no url defined
+cockpit;Unknown license;jdtcore;eclipse;jdtcore;03.01.2000;no url defined
+cockpit;Unknown license;jgrapht-jdk1.6;de.hybris.external;jgrapht-jdk1.6;0.8.2;no url defined
+cockpit;Unknown license;jgraphx;de.hybris.external;jgraphx;1.10.2.1;no url defined
+cockpit;Unknown license;xml-apis;xml-apis;xml-apis;01.03.2002;http://xml.apache.org/commons/#external
+cockpit;Unknown license;zcommon;de.hybris.external;zcommon;03.06.2004;no url defined
+cockpit;Unknown license;zhtml;de.hybris.external;zhtml;03.06.2004;no url defined
+cockpit;Unknown license;zk;de.hybris.external;zk;03.06.2004;no url defined
+cockpit;Unknown license;zkex;de.hybris.external;zkex;03.06.2004;no url defined
+cockpit;Unknown license;zkmax;de.hybris.external;zkmax;03.06.2004;no url defined
+cockpit;Unknown license;zkplus;de.hybris.external;zkplus;03.06.2004;no url defined
+cockpit;Unknown license;zkspring;de.hybris.external;zkspring;01.01.2000;no url defined
+cockpit;Unknown license;zml;de.hybris.external;zml;03.06.2004;no url defined
+cockpit;Unknown license;zul;de.hybris.external;zul;03.06.2004;no url defined
+cockpit;Unknown license;zweb;de.hybris.external;zweb;03.06.2004;no url defined
+commercefacades;BSD style;XStream Core;com.thoughtworks.xstream;xstream;01.04.2002;http://codehaus.org/xstream-parent/xstream/
+commercefacades;Indiana University Extreme! Lab Software License, vesion 1.1.1(Public Domain);MXP1: Xml Pull Parser 3rd Edition (XPP3);xpp3;xpp3_min;1.1.4c;http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/
+commercefacades;Public Domain;XML Pull Parsing API;xmlpull;xmlpull;1.1.3.1;http://www.xmlpull.org
+commons;ASF 2.0 License;avalon-framework;de.hybris.external;avalon-framework;04.02.2000;http://wiki.apache.org/excalibur/AvalonFramework
+commons;ASF 2.0 License;batik-all;de.hybris.external;batik-all;01. Jul;http://xmlgraphics.apache.org/batik/license.html
+commons;ASF 2.0 License;xalan;xalan;xalan;02.06.2000;http://xml.apache.org/xalan-j/
+commons;Mozilla Public License version 1.1;Batik patched Rhino;org.apache.xmlgraphics;batik-js;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Apache FOP;org.apache.xmlgraphics;fop;1.0;http://xmlgraphics.apache.org/fop/
+commons;The Apache Software License, Version 2.0;Apache XML Graphics Commons;org.apache.xmlgraphics;xmlgraphics-commons;01. Apr;http://xmlgraphics.apache.org/commons/
+commons;The Apache Software License, Version 2.0;Avalon Framework API;org.apache.avalon.framework;avalon-framework-api;04.03.2001;http://www.apache.org/excalibur/avalon-framework/avalon-framework-api/
+commons;The Apache Software License, Version 2.0;Avalon Framework Implementation;org.apache.avalon.framework;avalon-framework-impl;04.03.2001;http://www.apache.org/excalibur/avalon-framework/avalon-framework-impl/
+commons;The Apache Software License, Version 2.0;Batik AWT utilities;org.apache.xmlgraphics;batik-awt-util;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik CSS engine;org.apache.xmlgraphics;batik-css;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik DOM implementation;org.apache.xmlgraphics;batik-dom;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik GVT (Graphics Vector Tree);org.apache.xmlgraphics;batik-gvt;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik Java2D SVG generator;org.apache.xmlgraphics;batik-svggen;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik SVG DOM implementation;org.apache.xmlgraphics;batik-svg-dom;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik SVG microsyntax parser library;org.apache.xmlgraphics;batik-parser;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik SVG transcoder classes;org.apache.xmlgraphics;batik-transcoder;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik XML utility library;org.apache.xmlgraphics;batik-xml;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik animation engine;org.apache.xmlgraphics;batik-anim;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik bridge classes;org.apache.xmlgraphics;batik-bridge;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik extension classes;org.apache.xmlgraphics;batik-extension;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik external code;org.apache.xmlgraphics;batik-ext;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik scripting language classes;org.apache.xmlgraphics;batik-script;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;Batik utility library;org.apache.xmlgraphics;batik-util;01. Jul;http://xmlgraphics.apache.org/batik/
+commons;The Apache Software License, Version 2.0;IO;commons-io;commons-io;01.03.2001;http://jakarta.apache.org/commons/io/
+commons;The Apache Software License, Version 2.0;Logging;commons-logging;commons-logging;1.0.4;http://jakarta.apache.org/commons/logging/
+commons;The Apache Software License, Version 2.0;XML Commons External Components XML APIs Extensions;xml-apis;xml-apis-ext;01.03.2004;http://xml.apache.org/commons/components/external/
+commons;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;01.03.2004;http://xml.apache.org/commons/components/external/
+commons;Unknown license;jai-codec;de.hybris.external;jai-codec;01.01.2003;no url defined
+commons;Unknown license;jai_core;de.hybris.external;jai_core;01.01.2003;no url defined
+core;ASF 2.0 License;ConcurrentLinkedHashMap;com.googlecode.concurrentlinkedhashmap;concurrentlinkedhashmap-lru;01. Feb;http://code.google.com/p/concurrentlinkedhashmap
+core;ASF 2.0 License;Groovy;org.codehaus.groovy;groovy-all;02.01.2001;http://groovy.codehaus.org/License+Information
+core;ASF 2.0 License;Rome HTTP Fetcher;net.java.dev.rome;rome-fetcher;1.0.0;https://rometools.jira.com/wiki/display/ROME/Home
+core;ASF 2.0 License;Spring WS Core;org.springframework.ws;spring-ws-core;2.0.3.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;Spring XML;org.springframework.ws;spring-xml;2.0.3.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;ant-commons-net;ant;ant-commons-net;01.06.2005;http://ant.apache.org/
+core;ASF 2.0 License;btc-ascii-table;de.hybris.external;btc-ascii-table;1.0;http://code.google.com/p/java-ascii-table/
+core;ASF 2.0 License;commons-logging-api;commons-logging;commons-logging-api;1.0.4;http://commons.apache.org/logging/
+core;ASF 2.0 License;oro;oro;oro;2.0.8;http://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE
+core;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+core;ASF 2.0 License;xalan;xalan;xalan;02.06.2000;http://xml.apache.org/xalan-j/
+core;ASF 2.0 License;xercesImpl;xerces;xercesImpl;02.06.2002;http://xerces.apache.org/xerces2-j/
+core;ASF 2.0;Code Generation Library;cglib;cglib-nodep;02.02.2002;http://cglib.sourceforge.net/
+core;Apache 2;EasyMock class extension;org.easymock;easymockclassextension;03. Jan;http://www.easymock.org/easymockclassextension
+core;Apache 2;EasyMock;org.easymock;easymock;03. Jan;http://www.easymock.org/easymock
+core;Apache 2;Joda time;joda-time;joda-time;2.0;http://joda-time.sourceforge.net
+core;Apache 2;Objenesis;org.objenesis;objenesis;01. Feb;http://objenesis.googlecode.com/svn/docs/index.html
+core;Apache 2;OpenSAML-J;org.opensaml;opensaml;2.5.;http://opensaml.org/
+core;Apache 2;OpenWS;org.opensaml;openws;1.4.;http://opensaml.org/
+core;Apache 2;ROME, RSS and atOM utilitiEs for Java;net.java.dev.rome;rome;1.0.0;https://rome.dev.java.net/
+core;Apache 2;XMLTooling-J;org.opensaml;xmltooling;1.3.;http://opensaml.org/
+core;Apache License 2.0;JGroups;org.jgroups;jgroups;3.4.1.Final;http://www.jgroups.org
+core;Apache License, Version 2.0;FEST Fluent Assertions;org.easytesting;fest-assert;01. Apr;http://fest.easytesting.org/assert
+core;Apache License, Version 2.0;FEST Util;org.easytesting;fest-util;01.01.2006;http://fest.easytesting.org
+core;Apache License, Version 2.0;fastutil;it.unimi.dsi;fastutil;06.05.2006;http://fasutil.dsi.unimi.it/
+core;Apache License;HttpClient;commons-httpclient;commons-httpclient;03. Jan;http://jakarta.apache.org/httpcomponents/httpclient-3.x/
+core;Apache-style open source license;jdom;jdom;jdom;1.0;http://www.jdom.org/docs/faq.html#a0030
+core;BSD License;Javolution;javolution;javolution;05.05.2001;http://javolution.org
+core;BSD style;Hamcrest All;org.hamcrest;hamcrest-all;01. Jan;https://github.com/hamcrest/JavaHamcrest
+core;BSD style;Hamcrest Core;org.hamcrest;hamcrest-core;01. Jan;https://github.com/hamcrest/JavaHamcrest
+core;BSD;ASM Core;asm;asm;03.03.2001;http://asm.objectweb.org/asm/
+core;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk15;Jan 46;http://www.bouncycastle.org/java.html
+core;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcprov-jdk15;140;http://www.bouncycastle.org/java.html
+core;CDDL(GPLv2+CE);JavaMail API (compat);javax.mail;mail;01.04.2004;http://kenai.com/projects/javamail/mail
+core;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+core;CPL;WSDL4J;wsdl4j;wsdl4j;01.06.2001;http://sf.net/projects/wsdl4j
+core;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+core;Common Public License Version 1.0;JUnit;junit;junit-dep;04.08.2002;http://junit.org
+core;Common Public License Version 1.0;JUnit;junit;junit;04. Sep;http://junit.org
+core;Creative Commons Attribution License 2.5;Java Concurrency in Practice book annotations;net.jcip;jcip-annotations;1.0;http://jcip.net/
+core;Eclipse Public License - v 1.0;AspectJ runtime;org.aspectj;aspectjrt;01.06.2008;http://www.aspectj.org
+core;Eclipse Public License - v 1.0;AspectJ weaver;org.aspectj;aspectjweaver;01.06.2012;http://www.aspectj.org
+core;GNU LESSER GENERAL PUBLIC LICENSE;BeanShell;org.beanshell;bsh;2.0b4;no url defined
+core;GNU Lesser Public License;FindBugs-Annotations;com.google.code.findbugs;annotations;2.0.0;http://findbugs.sourceforge.net/
+core;Java HTML Tidy License;JTidy;jtidy;jtidy;4aug2000rev ;http://jtidy.sourceforge.net
+core;LGPL 2.1(MPL 1.1);Javassist;javassist;javassist;3.12.1.GA;http://www.javassist.org/
+core;LGPL;xom;xom;xom;1.0;http://www.xom.nu
+core;MIT License;HttpUnit;httpunit;httpunit;01. Jul;http://httpunit.sourceforge.net
+core;MIT License;SLF4J JCL Binding;org.slf4j;slf4j-jcl;01.06.2004;http://www.slf4j.org
+core;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2004;http://slf4j.org/license.html
+core;MIT license;SLF4J LOG4J-12 Binding;org.slf4j;slf4j-log4j12;01.05.2006;http://slf4j.org/license.html
+core;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+core;Revised BSD;JSch;com.jcraft;jsch;0.1.45;http://www.jcraft.com/jsch/
+core;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mrz;no url defined
+core;The Apache Software License, Version 2.0;Apache Log4j;log4j;log4j;01.02.2016;http://logging.apache.org/log4j/1.2/
+core;The Apache Software License, Version 2.0;Apache Santuario;org.apache.santuario;xmlsec;01.04.2006;http://santuario.apache.org/
+core;The Apache Software License, Version 2.0;Apache Velocity;org.apache.velocity;velocity;01. Jul;http://velocity.apache.org/engine/devel/
+core;The Apache Software License, Version 2.0;Commons BeanUtils;commons-beanutils;commons-beanutils;01.08.2003;http://commons.apache.org/beanutils/
+core;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jun;http://commons.apache.org/codec/
+core;The Apache Software License, Version 2.0;Commons Collections;commons-collections;commons-collections;03.02.2001;http://commons.apache.org/collections/
+core;The Apache Software License, Version 2.0;Commons Configuration;commons-configuration;commons-configuration;01. Jul;http://commons.apache.org/configuration/
+core;The Apache Software License, Version 2.0;Commons DBCP;commons-dbcp;commons-dbcp;01. Apr;http://commons.apache.org/dbcp/
+core;The Apache Software License, Version 2.0;Commons Digester;commons-digester;commons-digester;02. Jan;http://commons.apache.org/digester/
+core;The Apache Software License, Version 2.0;Commons Discovery;commons-discovery;commons-discovery;0.5;http://commons.apache.org/discovery/
+core;The Apache Software License, Version 2.0;Commons Email;org.apache.commons;commons-email;01. Feb;http://commons.apache.org/email/
+core;The Apache Software License, Version 2.0;Commons FileUpload;commons-fileupload;commons-fileupload;01.02.2002;http://commons.apache.org/fileupload/
+core;The Apache Software License, Version 2.0;Commons IO;commons-io;commons-io;02. Jan;http://commons.apache.org/io/
+core;The Apache Software License, Version 2.0;Commons JEXL;commons-jexl;commons-jexl;01. Jan;http://jakarta.apache.org/commons/jexl/
+core;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Jun;http://commons.apache.org/lang/
+core;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+core;The Apache Software License, Version 2.0;Commons Net;commons-net;commons-net;3.0.1;http://commons.apache.org/net/
+core;The Apache Software License, Version 2.0;Commons Pool;commons-pool;commons-pool;01. Jun;http://commons.apache.org/pool/
+core;The Apache Software License, Version 2.0;Commons Validator;commons-validator;commons-validator;01.04.2000;http://commons.apache.org/validator/
+core;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2011;http://jackson.codehaus.org
+core;The Apache Software License, Version 2.0;EL;commons-el;commons-el;1.0;http://jakarta.apache.org/commons/el/
+core;The Apache Software License, Version 2.0;Ehcache Core;net.sf.ehcache;ehcache-core;02.05.2000;http://ehcache.org
+core;The Apache Software License, Version 2.0;FindBugs-jsr305;com.google.code.findbugs;jsr305;2.0.0;http://findbugs.sourceforge.net/
+core;The Apache Software License, Version 2.0;Guava: Google Core Libraries for Java;com.google.guava;guava;14.0;http://code.google.com/p/guava-libraries/guava
+core;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2011;http://jackson.codehaus.org
+core;The Apache Software License, Version 2.0;Mime Detection Utility;eu.medsea.mimeutil;mime-util;02.01.2003;http://www.medsea.eu/mime-util/
+core;The Apache Software License, Version 2.0;Spring Integration ApplicationEvent Support;org.springframework.integration;spring-integration-event;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Core;org.springframework.integration;spring-integration-core;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration FTP Support;org.springframework.integration;spring-integration-ftp;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration File Support;org.springframework.integration;spring-integration-file;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Groovy Support;org.springframework.integration;spring-integration-groovy;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration HTTP Support;org.springframework.integration;spring-integration-http;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration IP Support;org.springframework.integration;spring-integration-ip;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration JDBC Support;org.springframework.integration;spring-integration-jdbc;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration JMS Support;org.springframework.integration;spring-integration-jms;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration JMX Support;org.springframework.integration;spring-integration-jmx;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Mail Support;org.springframework.integration;spring-integration-mail;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration RMI Support;org.springframework.integration;spring-integration-rmi;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration RSS Feed Support;org.springframework.integration;spring-integration-feed;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration SFTP Support;org.springframework.integration;spring-integration-sftp;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Scripting Support;org.springframework.integration;spring-integration-scripting;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Security Support;org.springframework.integration;spring-integration-security;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Stream Support;org.springframework.integration;spring-integration-stream;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Test Support;org.springframework.integration;spring-integration-test;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Twitter Support;org.springframework.integration;spring-integration-twitter;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration Web Services Support;org.springframework.integration;spring-integration-ws;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration XML Support;org.springframework.integration;spring-integration-xml;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;Spring Integration XMPP Support;org.springframework.integration;spring-integration-xmpp;2.1.0.RELEASE;https://github.com/SpringSource/spring-integration
+core;The Apache Software License, Version 2.0;WSS4J;org.apache.ws.security;wss4j;01.06.2004;http://ws.apache.org/wss4j/
+core;The Apache Software License, Version 2.0;smack-ext;org.igniterealtime.smack;smackx;03.02.2001;http://www.igniterealtime.org/projects/smack/
+core;The Apache Software License, Version 2.0;smack;org.igniterealtime.smack;smack;03.02.2001;http://www.igniterealtime.org/projects/smack/
+core;The Apache Software License, Version 2.0;spring-aspects;org.springframework;spring-aspects;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-instrument-tomcat;org.springframework;spring-instrument-tomcat;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-instrument;org.springframework;spring-instrument;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-jdbc;org.springframework;spring-jdbc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-jms;org.springframework;spring-jms;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-orm;org.springframework;spring-orm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-oxm;org.springframework;spring-oxm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-security-config;org.springframework.security;spring-security-config;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-security-crypto;org.springframework.security;spring-security-crypto;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-social-core;org.springframework.social;spring-social-core;1.0.1.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-social-twitter;org.springframework.social;spring-social-twitter;1.0.1.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-test;org.springframework;spring-test;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-tx;org.springframework;spring-tx;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+core;The BSD License;xmlenc Library;xmlenc;xmlenc;0.52;http://xmlenc.sourceforge.net
+core;The MIT License;Mockito;org.mockito;mockito-all;01.09.2000;http://www.mockito.org
+core;The MIT License;Mockito;org.mockito;mockito-core;01.08.2005;http://www.mockito.org
+core;The Werken Company License;Jaxen is a universal Java XPath engine.;jaxen;jaxen;01.01.2003;http://jaxen.codehaus.org/
+core;Unknown license;ddlutils;org.apache.ddlutils;ddlutils;1.0;no url defined
+core;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+core;Unknown license;hybris-encryption;de.hybris.external;hybris-encryption;01. Jan;http://maven.apache.org
+core;Unknown license;hybris-simple-statistics;com.hybris;hybris-simple-statistics;1.0.1;http://maven.apache.org
+core;Unknown license;hybris-xalan;de.hybris.platform.patched;hybris-xalan;02.07.2000;no url defined
+core;Unknown license;hybriskey;de.hybris.platform;hybriskey;1.0;no url defined
+core;Unknown license;icu4j;com.ibm.icu;icu4j;02.06.2001;no url defined
+core;Unknown license;xml-apis;xml-apis;xml-apis;01.03.2002;http://xml.apache.org/commons/#external
+core;Unknown license;xmlParserAPIs;xerces;xmlParserAPIs;02.06.2002;no url defined
+core;WTFPL;Reflections;org.reflections;reflections;0.9.8;http://code.google.com/p/reflections/
+corepluscommons;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;ASF 2.0;Code Generation Library;cglib;cglib-nodep;02. Feb;http://cglib.sourceforge.net/
+corepluscommons;ASF 2.0;Code Generation Library;cglib;cglib;02. Feb;http://cglib.sourceforge.net/
+corepluscommons;Apache 2;EasyMock;org.easymock;easymock;3.0;http://www.easymock.org/easymock
+corepluscommons;Apache 2;Joda time;joda-time;joda-time;02. Feb;http://joda-time.sourceforge.net
+corepluscommons;Apache 2;Objenesis;org.objenesis;objenesis;01. Feb;http://objenesis.googlecode.com/svn/docs/index.html
+corepluscommons;Apache License 2.0;JGroups;org.jgroups;jgroups;3.4.0.Final;http://www.jgroups.org
+corepluscommons;Apache License, Version 2.0;Bean Validation API;javax.validation;validation-api;1.0.0.GA;no url defined
+corepluscommons;Apache License;HttpClient;commons-httpclient;commons-httpclient;03. Jan;http://jakarta.apache.org/httpcomponents/httpclient-3.x/
+corepluscommons;Apache Software Licenses;Log4j Implemented Over SLF4J;org.slf4j;log4j-over-slf4j;01.07.2005;http://www.slf4j.org
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);JAXB API bundle for GlassFish V3;javax.xml.bind;jaxb-api;02.02.2002;https://jaxb.dev.java.net/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);JAXB RI;com.sun.xml.bind;jaxb-impl;2.2.;http://jaxb.java.net/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);Jersey Apache HTTP Client;com.sun.jersey.contribs;jersey-apache-client;Jan 13;https://jersey.java.net/jersey-contribs/jersey-apache-client/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-bundle;com.sun.jersey;jersey-bundle;Jan 13;https://jersey.java.net/jersey-bundle/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-client;com.sun.jersey;jersey-client;Jan 13;https://jersey.java.net/jersey-client/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-core;com.sun.jersey;jersey-core;Jan 13;https://jersey.java.net/jersey-core/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-json;com.sun.jersey;jersey-json;Jan 13;https://jersey.java.net/jersey-json/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-multipart;com.sun.jersey.contribs;jersey-multipart;Jan 13;https://jersey.java.net/jersey-contribs/jersey-multipart/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-server;com.sun.jersey;jersey-server;Jan 13;https://jersey.java.net/jersey-server/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-servlet;com.sun.jersey;jersey-servlet;Jan 13;https://jersey.java.net/jersey-servlet/
+corepluscommons;CDDL 1.1(GPL2 w/ CPE);jersey-spring;com.sun.jersey.contribs;jersey-spring;Jan 13;http://maven.apache.org
+corepluscommons;CDDL License;jsr311-api;javax.ws.rs;jsr311-api;01.01.2001;https://jsr311.dev.java.net
+corepluscommons;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL;Version 1.0) JSR-250 Common Annotations for the JavaTM Platform;javax.annotation;jsr250-api;1.0;http://jcp.org/aboutJava/communityprocess/final/jsr250/index.html
+corepluscommons;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+corepluscommons;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+corepluscommons;Common Development and Distribution License;Dummy Creator;de.dev-eth0.dummycreator;dummy-creator;01. Feb;http://code.google.com/p/dummycreator/
+corepluscommons;Common Public License Version 1.0;JUnit;junit;junit;04.08.2001;http://junit.org
+corepluscommons;Dual license consisting of the CDDL v1.1 and GPL v2;MIME streaming extension;org.jvnet;mimepull;01. Jun;no url defined
+corepluscommons;Eclipse Public License - v 1.0(GNU Lesser General Public License);Logback Classic Module;ch.qos.logback;logback-classic;1.0.13;http://logback.qos.ch
+corepluscommons;Eclipse Public License - v 1.0(GNU Lesser General Public License);Logback Core Module;ch.qos.logback;logback-core;1.0.13;http://logback.qos.ch
+corepluscommons;Eclipse Public License - v 1.0;AspectJ runtime;org.aspectj;aspectjrt;01.07.2001;http://www.aspectj.org
+corepluscommons;Eclipse Public License - v 1.0;AspectJ weaver;org.aspectj;aspectjweaver;01.07.2001;http://www.aspectj.org
+corepluscommons;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);JAX-RS provider for JSON content type;org.codehaus.jackson;jackson-jaxrs;01.09.2002;http://jackson.codehaus.org
+corepluscommons;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);Xml Compatibility extensions for Jackson;org.codehaus.jackson;jackson-xc;01.09.2002;http://jackson.codehaus.org
+corepluscommons;GNU Lesser Public License;FindBugs-Annotations;com.google.code.findbugs;annotations;2.0.1;http://findbugs.sourceforge.net/
+corepluscommons;GNU Library or Lesser General Public License;Java CVS Reader and Writer;net.sourceforge.javacsv;javacsv;2.0;http://javacsv.sourceforge.net/
+corepluscommons;LGPL 2.1(MPL 1.1);Javassist;javassist;javassist;3.12.1.GA;http://www.javassist.org/
+corepluscommons;MIT License;JCL 1.1.1 implemented over SLF4J;org.slf4j;jcl-over-slf4j;01.07.2005;http://www.slf4j.org
+corepluscommons;MIT License;JUL to SLF4J bridge;org.slf4j;jul-to-slf4j;01.06.2004;http://www.slf4j.org
+corepluscommons;MIT license;Java Reflection;org.codemonkey.javareflection;java-reflection;01. Jan;http://code.google.com/p/java-reflection/
+corepluscommons;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.07.2005;http://slf4j.org/license.html
+corepluscommons;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+corepluscommons;The Apache Software License, Version 2.0;Apache BVal :: bval-core;The Apache Software License, Version 2.0) Apache BVal :;org.apache.bvalore;bva0.4 ;http://bval.apache.org/bval-core/
+corepluscommons;The Apache Software License, Version 2.0;Apache BVal :: bval-jsr303;The Apache Software License, Version 2.0) Apache BVal :;org.apache.bvalsr303;bva0.4 ;http://bval.apache.org/bval-jsr303/
+corepluscommons;The Apache Software License, Version 2.0;Apache Log4j;log4j;log4j;01.02.2016;http://logging.apache.org/log4j/1.2/
+corepluscommons;The Apache Software License, Version 2.0;Commons BeanUtils Core;commons-beanutils;commons-beanutils-core;01.08.2003;http://commons.apache.org/beanutils/
+corepluscommons;The Apache Software License, Version 2.0;Commons BeanUtils;commons-beanutils;commons-beanutils;01.08.2003;http://commons.apache.org/beanutils/
+corepluscommons;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jun;http://commons.apache.org/codec/
+corepluscommons;The Apache Software License, Version 2.0;Commons Collections;commons-collections;commons-collections;03.02.2001;http://commons.apache.org/collections/
+corepluscommons;The Apache Software License, Version 2.0;Commons Configuration;commons-configuration;commons-configuration;01. Sep;http://commons.apache.org/configuration/
+corepluscommons;The Apache Software License, Version 2.0;Commons IO;commons-io;commons-io;02. Apr;http://commons.apache.org/io/
+corepluscommons;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Jun;http://commons.apache.org/lang/
+corepluscommons;The Apache Software License, Version 2.0;Commons Lang;org.apache.commons;commons-lang3;03. Jan;http://commons.apache.org/lang/
+corepluscommons;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+corepluscommons;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2002;http://jackson.codehaus.org
+corepluscommons;The Apache Software License, Version 2.0;Ehcache Core;net.sf.ehcache;ehcache-core;02.05.2001;http://ehcache.org
+corepluscommons;The Apache Software License, Version 2.0;FindBugs-jsr305;com.google.code.findbugs;jsr305;2.0.1;http://findbugs.sourceforge.net/
+corepluscommons;The Apache Software License, Version 2.0;Guava: Google Core Libraries for Java;com.google.guava;guava;14.0.1;http://code.google.com/p/guava-libraries/guava
+corepluscommons;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2002;http://jackson.codehaus.org
+corepluscommons;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+corepluscommons;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;1.0.b2;http://xml.apache.org/commons/#external
+corepluscommons;The Apache Software License, Version 2.0;flexjson;net.sf.flexjson;flexjson;02. Jan;http://flexjson.sourceforge.net/
+corepluscommons;The Apache Software License, Version 2.0;spring-aspects;org.springframework;spring-aspects;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;The Apache Software License, Version 2.0;spring-oxm;org.springframework;spring-oxm;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;The Apache Software License, Version 2.0;spring-tx;org.springframework;spring-tx;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+corepluscommons;Unknown license;ASM Core;asm;asm;03. Jan;http://asm.objectweb.org/asm/
+corepluscommons;Unknown license;Enunciate - Core Annotations;org.codehaus.enunciate;enunciate-core-annotations;Jan 27;no url defined
+corepluscommons;Unknown license;Jettison;org.codehaus.jettison;jettison;01. Jan;no url defined
+corepluscommons;Unknown license;c;taglibs;c;01.01.2002;no url defined
+corepluscommons;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+corepluscommons;Unknown license;fmt;taglibs;fmt;01.01.2002;no url defined
+corepluscommons;Unknown license;hybris-commons-configuration;com.hybris.commons;hybris-commons-configuration;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-context;com.hybris.commons;hybris-commons-context;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-conversion;com.hybris.commons;hybris-commons-conversion;05.01.2001;no url defined
+corepluscommons;Unknown license;hybris-commons-dto;com.hybris.commons;hybris-commons-dto;05.01.2001;no url defined
+corepluscommons;Unknown license;hybris-commons-mock;com.hybris.commons;hybris-commons-mock;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-rest-client;com.hybris.commons;hybris-commons-rest-client;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-rest-resources;com.hybris.commons;hybris-commons-rest-resources;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-security;com.hybris.commons;hybris-commons-security;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-tenant-rest-client;com.hybris.commons;hybris-commons-tenant-rest-client;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-commons-tenant;com.hybris.commons;hybris-commons-tenant;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-deps-jersey-client;com.hybris.commons;hybris-deps-jersey-client;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-deps-jersey-server;com.hybris.commons;hybris-deps-jersey-server;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-deps-logging;com.hybris.commons;hybris-deps-logging;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-deps-spring;com.hybris.commons;hybris-deps-spring;05.01.2000;no url defined
+corepluscommons;Unknown license;hybris-deps-web;com.hybris.commons;hybris-deps-web;05.01.2000;no url defined
+corepluscommons;Unknown license;jstl;javax.servlet;jstl;01.01.2002;no url defined
+corepluscommons;Unknown license;kernel-api;com.hybris.kernel;kernel-api;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-cache;com.hybris.kernel;kernel-cache;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-metadata;com.hybris.kernel;kernel-metadata;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-persistence;com.hybris.kernel;kernel-persistence;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-service;com.hybris.kernel;kernel-service;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-type-system;com.hybris.kernel;kernel-type-system;5.1.0.2;no url defined
+corepluscommons;Unknown license;kernel-utils;com.hybris.kernel;kernel-utils;5.1.0.2;no url defined
+corepluscommons;Unknown license;spring-web;org.springframework;spring-web;3.0.0.RC3;http://www.springsource.org/spring-framework
+corepluscommons;Unknown license;standard;taglibs;standard;01.01.2002;no url defined
+corepluscommons;WTFPL;Reflections;org.reflections;reflections;0.9.8;http://code.google.com/p/reflections/
+cybersource;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;01.03.2004;http://xml.apache.org/commons/components/external/
+cybersource;The Apache Software License, Version 2.0;Xerces2 Java Parser;xerces;xercesImpl;02.09.2001;http://xerces.apache.org/xerces2-j
+cybersource;Unknown license;cybsclients;de.hybris.external;cybsclients;01. Mai;no url defined
+cybersource;Unknown license;cybssecurity;de.hybris.external;cybssecurity;01. Mai;no url defined
+gridfsstorage;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+gridfsstorage;Apache License, Version 2.0;Spring Data Core;org.springframework.data;spring-data-commons;1.5.0.RELEASE;http://www.springsource.org/spring-data/spring-data-commons
+gridfsstorage;Apache License, Version 2.0;Spring Data MongoDB - Core;org.springframework.data;spring-data-mongodb;1.2.0.RELEASE;http://www.springsource.org/spring-data/mongodb/spring-data-mongodb
+gridfsstorage;MIT License;JCL 1.1.1 implemented over SLF4J;org.slf4j;jcl-over-slf4j;01.07.2001;http://www.slf4j.org
+gridfsstorage;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.07.2001;http://slf4j.org/license.html
+gridfsstorage;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+gridfsstorage;The Apache Software License, Version 2.0;MongoDB Java Driver;org.mongodb;mongo-java-driver;02.10.2001;http://www.mongodb.org
+gridfsstorage;The Apache Software License, Version 2.0;spring-tx;org.springframework;spring-tx;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;Apache License v2.0;SiteMesh library;org.sitemesh;sitemesh;3.lpha; - http://www.sitemesh.org/sitemesh/
+hac/web-inf;Artistic License;Display tag library;displaytag;displaytag;01. Feb;http://displaytag.sourceforge.net/displaytag
+hac/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+hac/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+hac/web-inf;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.04.2002;http://slf4j.org/license.html
+hac/web-inf;MIT license;SLF4J LOG4J-12 Binding;org.slf4j;slf4j-log4j12;01.04.2002;http://slf4j.org/license.html
+hac/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+hac/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+hac/web-inf;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Mrz;http://jakarta.apache.org/commons/lang/
+hac/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.1.RELEASE;no url defined
+hac/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.1.RELEASE;no url defined
+hac/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;Unknown license;JCL Implemented Over SLF4J;org.slf4j;jcl104-over-slf4j;01.04.2002;http://www.slf4j.org
+hac/web-inf;Unknown license;Log4j;log4j;log4j;01.02.2013;http://logging.apache.org/log4j/docs/
+hac/web-inf;Unknown license;commons-beanutils;commons-beanutils;commons-beanutils;01.07.2000;no url defined
+hac/web-inf;Unknown license;commons-collections;commons-collections;commons-collections;03. Jan;no url defined
+hac/web-inf;Unknown license;itext;com.lowagie;itext;01. Mrz;http://www.lowagie.com/iText/
+hac/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+hac/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+hac/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+impex;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi;03. Jul;http://poi.apache.org/
+importcockpit/web-inf;BSD style;XStream Core;com.thoughtworks.xstream;xstream;01.04.2001;http://codehaus.org/xstream-parent/xstream/
+importcockpit/web-inf;Indiana University Extreme! Lab Software License, vesion 1.1.1(Public Domain);MXP1: Xml Pull Parser 3rd Edition (XPP3);xpp3;xpp3_min;1.1.4c;http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/
+importcockpit/web-inf;Public Domain;XML Pull Parsing API;xmlpull;xmlpull;1.1.3.1;http://www.xmlpull.org
+instore/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;Apache License, Version 2.0;JHLabs Image Processing Filters;com.jhlabs;filters;2.0.235;http://www.jhlabs.com/ip/index.html
+instore/web-inf;Apache License, Version 2.0;The ZK EL Library;org.zkoss.common;zel;6.5.1.1;http://www.zkoss.org/common
+instore/web-inf;Bouncy Castle Licence;Bouncy Castle CMS and S/MIME API;org.bouncycastle;bcmail-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+instore/web-inf;Bouncy Castle Licence;Bouncy Castle OpenPGP API;org.bouncycastle;bctsp-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+instore/web-inf;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-client;com.sun.jersey;jersey-client;Jan 13;https://jersey.java.net/jersey-client/
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-core;com.sun.jersey;jersey-core;Jan 13;https://jersey.java.net/jersey-core/
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-multipart;com.sun.jersey.contribs;jersey-multipart;Jan 13;https://jersey.java.net/jersey-contribs/jersey-multipart/
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-server;com.sun.jersey;jersey-server;Jan 13;https://jersey.java.net/jersey-server/
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-servlet;com.sun.jersey;jersey-servlet;Jan 13;https://jersey.java.net/jersey-servlet/
+instore/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-spring;com.sun.jersey.contribs;jersey-spring;Jan 13;http://maven.apache.org
+instore/web-inf;Dual license consisting of the CDDL v1.1 and GPL v2;MIME streaming extension;org.jvnet;mimepull;01. Jun;no url defined
+instore/web-inf;GNU GENERAL PUBLIC LICENSE, Version 3;ZK Spring Core;org.zkoss.zk;zkspring-core;3.0;no url defined
+instore/web-inf;GNU GENERAL PUBLIC LICENSE, Version 3;ZK Spring Security;org.zkoss.zk;zkspring-security;3.0;no url defined
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;The ZKoss Common Library;org.zkoss.common;zcommon;6.5.1.1;http://www.zkoss.org/common
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;The ZKoss Web Library;org.zkoss.common;zweb;6.5.1.1;http://www.zkoss.org/web
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Bind;org.zkoss.zk;zkbind;6.5.1.1;http://www.zkoss.org/zkbind
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Kernel;org.zkoss.zk;zk;6.5.1.1;http://www.zkoss.org/zk
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Plus Utilities;org.zkoss.zk;zkplus;6.5.1.1;http://www.zkoss.org/zkplus
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK Silvertail Theme;org.zkoss.theme;silvertail;6.5.1.1;http://www.zkoss.org/themes/silvertail
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK XHTML Components;org.zkoss.zk;zhtml;6.5.1.1;http://www.zkoss.org/zhtml
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE, Version 3;ZK XUL Components;org.zkoss.zk;zul;6.5.1.1;http://www.zkoss.org/zul
+instore/web-inf;GNU LESSER GENERAL PUBLIC LICENSE;BeanShell;org.beanshell;bsh;2.0b4;no url defined
+instore/web-inf;GNU Lesser General Public Licence;JCommon;org.jfree;jcommon;1.0.17;http://www.jfree.org/jcommon/
+instore/web-inf;GNU Lesser General Public Licence;JFreeChart;org.jfree;jfreechart;1.0.14;http://www.jfree.org/jfreechart/
+instore/web-inf;GNU Lesser General Public Licence;jcommon;jfree;jcommon;1.0.15;http://www.jfree.org/jcommon/
+instore/web-inf;GNU Lesser General Public Licence;jfreechart;jfree;jfreechart;1.0.12;http://www.jfree.org/jfreechart/
+instore/web-inf;GNU Lesser General Public License (LGPL; Version 2.1) Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-lgpl;01.07.2004;http://jackson.codehaus.org
+instore/web-inf;GNU Lesser General Public License (LGPL; Version 2.1) Jackson;org.codehaus.jackson;jackson-core-lgpl;01.07.2004;http://jackson.codehaus.org
+instore/web-inf;GNU Lesser General Public License;JasperReports;net.sf.jasperreports;jasperreports;04.05.2001;http://jasperreports.sourceforge.net
+instore/web-inf;LGPL 2.1(MPL 1.1);Javassist;javassist;javassist;3.12.1.GA;http://www.javassist.org/
+instore/web-inf;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2001;http://slf4j.org/license.html
+instore/web-inf;Mozilla Public License;iText, a Free Java-PDF library;com.lowagie;itext;02.01.2007;http://www.lowagie.com/iText/
+instore/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+instore/web-inf;The Apache Software License, Version 1.1;ZK Commons EL;org.zkoss.zkforge.el;zcommons-el;01.01.2000;http://www.zkoss.org
+instore/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml-schemas;03. Jul;http://poi.apache.org/
+instore/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml;03. Jul;http://poi.apache.org/
+instore/web-inf;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi;03. Jul;http://poi.apache.org/
+instore/web-inf;The Apache Software License, Version 2.0;Commons Digester;commons-digester;commons-digester;02. Jan;http://commons.apache.org/digester/
+instore/web-inf;The Apache Software License, Version 2.0;Commons FileUpload;commons-fileupload;commons-fileupload;01.02.2002;http://commons.apache.org/fileupload/
+instore/web-inf;The Apache Software License, Version 2.0;Commons Lang;org.apache.commons;commons-lang3;03. Jan;http://commons.apache.org/lang/
+instore/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+instore/web-inf;The Apache Software License, Version 2.0;Guava (Google Common Libraries);com.google.guava;guava;r08;http://code.google.com/p/guava-libraries
+instore/web-inf;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+instore/web-inf;The Apache Software License, Version 2.0;Streaming API for XML (STAX API 1.0);org.apache.geronimo.specs;geronimo-stax-api_1.0_spec;1.0;http://geronimo.apache.org/specs/geronimo-stax-api_1.0_spec
+instore/web-inf;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;1.0.b2;http://xml.apache.org/commons/#external
+instore/web-inf;The Apache Software License, Version 2.0;XmlBeans;org.apache.xmlbeans;xmlbeans;02.03.2000;http://xmlbeans.apache.org
+instore/web-inf;The W3C Software License;Simple API for CSS;org.w3c.css;sac;01. Mrz;http://www.w3.org/Style/CSS/SAC/
+instore/web-inf;Unknown license;ASM Core;asm;asm;03. Jan;http://asm.objectweb.org/asm/
+instore/web-inf;Unknown license;Castor;org.codehaus.castor;castor;01. Feb;http://castor.org
+instore/web-inf;Unknown license;The Google Maps Component for ZK;org.zkoss.zkforge;gmapsz;3.0.0;http://www.zkoss.org
+instore/web-inf;Unknown license;ZK Enterprise Utilities;org.zkoss.zk;zkmax;6.5.1.1;http://www.zkoss.org/zkmax
+instore/web-inf;Unknown license;ZK Professional Utilities;org.zkoss.zk;zkex;6.5.1.1;http://www.zkoss.org/zkex
+instore/web-inf;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+instore/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.0.RC3;http://www.springsource.org/spring-framework
+instore/web-inf;WTFPL;Reflections;org.reflections;reflections;0.9.5;http://code.google.com/p/reflections/
+lucenesearch;ASF 2.0 License;jakarta-regexp;jakarta-regexp;jakarta-regexp;01. Apr;http://jakarta.apache.org/regexp/changes.html
+lucenesearch;Apache 2;Lucene Common Analyzers;org.apache.lucene;lucene-analyzers-common;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-common
+lucenesearch;Apache 2;Lucene Core;org.apache.lucene;lucene-core;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-core
+lucenesearch;Apache 2;Lucene Grouping;org.apache.lucene;lucene-grouping;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-grouping
+lucenesearch;Apache 2;Lucene Highlighter;org.apache.lucene;lucene-highlighter;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-highlighter
+lucenesearch;Apache 2;Lucene Join;org.apache.lucene;lucene-join;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-join
+lucenesearch;Apache 2;Lucene Kuromoji Japanese Morphological Analyzer;org.apache.lucene;lucene-analyzers-kuromoji;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-kuromoji
+lucenesearch;Apache 2;Lucene Memory;org.apache.lucene;lucene-memory;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-memory
+lucenesearch;Apache 2;Lucene Miscellaneous;org.apache.lucene;lucene-misc;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-misc
+lucenesearch;Apache 2;Lucene Phonetic Filters;org.apache.lucene;lucene-analyzers-phonetic;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-phonetic
+lucenesearch;Apache 2;Lucene Queries;org.apache.lucene;lucene-queries;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-queries
+lucenesearch;Apache 2;Lucene QueryParsers;org.apache.lucene;lucene-queryparser;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-queryparser
+lucenesearch;Apache 2;Lucene Sandbox;org.apache.lucene;lucene-sandbox;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-sandbox
+lucenesearch;Apache 2;Lucene Spatial;org.apache.lucene;lucene-spatial;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-spatial
+lucenesearch;Apache 2;Lucene Suggest;org.apache.lucene;lucene-suggest;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-suggest
+lucenesearch;Apache 2;Lucene codecs;org.apache.lucene;lucene-codecs;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-codecs
+lucenesearch;ICU License;ICU4J;com.ibm.icu;icu4j;49.1;http://icu-project.org/
+lucenesearch;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jul;http://commons.apache.org/codec/
+lucenesearch;The Apache Software License, Version 2.0;Spatial4J;com.spatial4j;spatial4j;0.3;http://spatial4j.com
+mobileservices/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+mobileservices/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+mobileservices/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices/web-inf;Unknown license;jstl;javax.servlet;jstl;01.01.2000;no url defined
+mobileservices/web-inf;Unknown license;standard;taglibs;standard;01.01.2002;no url defined
+mobileservices;ASF 2.0 License;avalon-framework;avalon-framework;avalon-framework;04.01.2003;http://wiki.apache.org/excalibur/AvalonFramework
+mobileservices;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;ASF 2.0;Barcode4J Light;net.sf.barcode4j;barcode4j-light;2.0;http://barcode4j.sourceforge.net/
+mobileservices;Apache License Version 2.0;SnakeYAML;org.yaml;snakeyaml;01. Apr;http://code.google.com/p/snakeyaml/
+mobileservices;GNU Lesser General Public License 2.1;smppapi;com.adenki;smppapi;0.3.9;http://smppapi.sf.net/
+mobileservices;New BSD license;Protocol Buffer Java API;de.hybris.external;protobuf-lite-libphonenumber;rev10;http://code.google.com/p/protobuf
+mobileservices;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+mobileservices;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mrz;no url defined
+mobileservices;The Apache Software License, Version 2.0;Logging;commons-logging;commons-logging;01. Jan;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+mobileservices;The Apache Software License, Version 2.0;Spring Mobile Device Resolution Support;org.springframework.mobile;spring-mobile-device;1.0.1.RELEASE;https://github.com/SpringSource/spring-mobile
+mobileservices;The Apache Software License, Version 2.0;XML Commons External Components XML APIs;xml-apis;xml-apis;01.03.2004;http://xml.apache.org/commons/components/external/
+mobileservices;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+mobileservices;Unknown license;google-guava-libphonenumber;de.hybris.external;google-guava-libphonenumber;sv;ev10 - no url defined
+mobileservices;Unknown license;libphonenumber;de.hybris.external;libphonenumber;02. Mrz;no url defined
+mobileservices;Unknown license;log4j;log4j;log4j;01.02.2012;no url defined
+mobileservices;Unknown license;logkit;logkit;logkit;1.0.1;no url defined
+mobileservices;Unknown license;zxing-core;de.hybris.external;zxing-core;01. Mrz;no url defined
+mobileservices;Unknown license;zxing-javase;de.hybris.external;zxing-javase;01. Mrz;no url defined
+omsbackoffice;ASF 2.0 License;xalan;xalan;xalan;02.07.2000;http://xml.apache.org/xalan-j/
+omsbackoffice;ASF 2.0;Code Generation Library;cglib;cglib;02. Feb;http://cglib.sourceforge.net/
+omsbackoffice;Apache License;HttpClient;commons-httpclient;commons-httpclient;03. Jan;http://jakarta.apache.org/httpcomponents/httpclient-3.x/
+omsbackoffice;Apache-style open source license;jdom;jdom;jdom;1.0;http://www.jdom.org/docs/faq.html#a0030
+omsbackoffice;BSD License;OWASP AntiSamy;org.owasp;antisamy;01. Apr;http://www.owasp.org/index.php/Category:OWASP_AntiSamy_Project/antisamy
+omsbackoffice;BSD(Creative Commons 3.0 BY-SA);ESAPI 2.0 rc10;org.owasp.esapi;esapi;2.0_rc10;http://www.esapi.org/
+omsbackoffice;Bouncy Castle Licence;Bouncy Castle CMS and S/MIME API;org.bouncycastle;bcmail-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+omsbackoffice;Bouncy Castle Licence;Bouncy Castle OpenPGP API;org.bouncycastle;bctsp-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+omsbackoffice;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk14;Jan 38;http://www.bouncycastle.org/java.html
+omsbackoffice;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcmail-jdk14;138;http://www.bouncycastle.org/java.html
+omsbackoffice;Bouncy Castle License;Legion of the Bouncy Castle Java Cryptography APIs;bouncycastle;bcprov-jdk14;138;http://www.bouncycastle.org/java.html
+omsbackoffice;GNU LESSER GENERAL PUBLIC LICENSE;BeanShell core;org.beanshell;bsh-core;2.0b4;no url defined
+omsbackoffice;Mozilla Public License;iText, a Free Java-PDF library;com.lowagie;itext;02.01.2007;http://www.lowagie.com/iText/
+omsbackoffice;The Apache Software License, Version 2.0(The SAX License)(The W3C License);XML Commons External Components XML APIs;xml-apis;xml-apis;01.04.2001;http://xml.apache.org/commons/components/external/
+omsbackoffice;The Apache Software License, Version 2.0;Apache BVal :: bval-core;The Apache Software License, Version 2.0) Apache BVal :;org.apache.bvalore;bva0.4 ;http://bval.apache.org/bval-core/
+omsbackoffice;The Apache Software License, Version 2.0;Batik CSS engine;org.apache.xmlgraphics;batik-css;01. Jul;http://xmlgraphics.apache.org/batik/
+omsbackoffice;The Apache Software License, Version 2.0;Batik external code;org.apache.xmlgraphics;batik-ext;01. Jul;http://xmlgraphics.apache.org/batik/
+omsbackoffice;The Apache Software License, Version 2.0;Batik utility library;org.apache.xmlgraphics;batik-util;01. Jul;http://xmlgraphics.apache.org/batik/
+omsbackoffice;The Apache Software License, Version 2.0;Collections;commons-collections;commons-collections;03. Feb;http://jakarta.apache.org/commons/collections/
+omsbackoffice;The Apache Software License, Version 2.0;Commons BeanUtils Core;commons-beanutils;commons-beanutils-core;01.08.2003;http://commons.apache.org/beanutils/
+omsbackoffice;The Apache Software License, Version 2.0;Commons Configuration;commons-configuration;commons-configuration;01. Mai;http://commons.apache.org/${pom.artifactId.substring(8)}/
+omsbackoffice;The Apache Software License, Version 2.0;Commons Lang;org.apache.commons;commons-lang3;03. Jan;http://commons.apache.org/lang/
+omsbackoffice;The Apache Software License, Version 2.0;Digester;commons-digester;commons-digester;01. Aug;http://jakarta.apache.org/commons/digester/
+omsbackoffice;The Apache Software License, Version 2.0;FileUpload;commons-fileupload;commons-fileupload;01. Feb;http://jakarta.apache.org/commons/fileupload/
+omsbackoffice;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Mrz;http://jakarta.apache.org/commons/lang/
+omsbackoffice;The Apache Software License, Version 2.0;Logging;commons-logging;commons-logging;1.0.4;http://jakarta.apache.org/commons/logging/
+omsbackoffice;The Apache Software License, Version 2.0;Neko HTML;net.sourceforge.nekohtml;nekohtml;01.09.2012;http://nekohtml.sourceforge.net/
+omsbackoffice;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+omsbackoffice;The Apache Software License, Version 2.0;XML Commons External Components XML APIs Extensions;xml-apis;xml-apis-ext;01.03.2004;http://xml.apache.org/commons/components/external/
+omsbackoffice;The Apache Software License, Version 2.0;Xerces2 Java Parser;xerces;xercesImpl;02.08.2001;http://xerces.apache.org/xerces2-j/
+omsbackoffice;The Apache Software License, Version 2.0;XmlBeans;org.apache.xmlbeans;xmlbeans;02.03.2000;http://xmlbeans.apache.org
+omsbackoffice;Unknown license;ASM Core;asm;asm;03. Jan;http://asm.objectweb.org/asm/
+omsbackoffice;Unknown license;Codec;commons-codec;commons-codec;01. Feb;no url defined
+omsbackoffice;Unknown license;commons-beanutils;commons-beanutils;commons-beanutils;01.07.2000;no url defined
+omsbackoffice;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+omsbackoffice;Unknown license;jaxen;jaxen;jaxen;1.eta; - http://jaxen.codehaus.org/
+omsbackoffice;Unknown license;log4j;log4j;log4j;01.02.2012;no url defined
+omsbackoffice;Unknown license;xmlParserAPIs;xerces;xmlParserAPIs;02.06.2002;no url defined
+omsbackoffice;Unknown license;xom;xom;xom;01. Jan;http://www.xom.nu
+ondemandcommon;Apache License;HttpClient;org.apache.httpcomponents;httpclient;04.02.2001;http://hc.apache.org/httpcomponents-client
+ondemandcommon;Apache License;HttpCore;org.apache.httpcomponents;httpcore;04.02.2001;http://hc.apache.org/httpcomponents-core-ga
+ondemandcommon;Dual license consisting of the CDDL v1.1 and GPL v2;MIME streaming extension;org.jvnet;mimepull;01. Jun;no url defined
+ondemandcommon;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2004;http://slf4j.org/license.html
+ondemandcommon;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jun;http://commons.apache.org/codec/
+ondemandcommon;The Apache Software License, Version 2.0;Commons Configuration;commons-configuration;commons-configuration;01. Aug;http://commons.apache.org/configuration/
+ondemandcommon;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Jun;http://commons.apache.org/lang/
+ondemandcommon;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+ondemandcommon;The Apache Software License, Version 2.0;FindBugs-jsr305;com.google.code.findbugs;jsr305;2.0.0;http://findbugs.sourceforge.net/
+ondemandcommon;The Apache Software License, Version 2.0;Guava: Google Core Libraries for Java;com.google.guava;guava;11.0.2;http://code.google.com/p/guava-libraries/guava
+ondemandcommon;The Apache Software License, Version 2.0;archaius-core;com.netflix.archaius;archaius-core;0.5.6;https://github.com/Netflix/archaius
+ondemandcommon;The Apache Software License, Version 2.0;flexjson;net.sf.flexjson;flexjson;3.0;http://flexjson.sourceforge.net/
+ondemandcommon;The Apache Software License, Version 2.0;hystrix-core;com.netflix.hystrix;hystrix-core;01.02.2008;https://github.com/Netflix/hystrix
+platformwebservices/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.0.RC3;http://www.springsource.org/spring-framework
+platformwebservices/web-inf;CDDL + GPLv2 with classpath exception;Java Servlet API;javax.servlet;javax.servlet-api;3.0.1;http://servlet-spec.java.net
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);JAXB API bundle for GlassFish V3;javax.xml.bind;jaxb-api;02.02.2002;https://jaxb.dev.java.net/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);JAXB RI;com.sun.xml.bind;jaxb-impl;2.2.;http://jaxb.java.net/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);Jersey Test Framework - Core;com.sun.jersey.jersey-test-framework;jersey-test-framework-core;Jan 13;https://jersey.java.net/jersey-test-framework/jersey-test-framework-core/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-client;com.sun.jersey;jersey-client;Jan 13;https://jersey.java.net/jersey-client/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-core;com.sun.jersey;jersey-core;Jan 13;https://jersey.java.net/jersey-core/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-json;com.sun.jersey;jersey-json;Jan 13;https://jersey.java.net/jersey-json/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-server;com.sun.jersey;jersey-server;Jan 13;https://jersey.java.net/jersey-server/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-servlet;com.sun.jersey;jersey-servlet;Jan 13;https://jersey.java.net/jersey-servlet/
+platformwebservices/web-inf;CDDL 1.1(GPL2 w/ CPE);jersey-spring;com.sun.jersey.contribs;jersey-spring;Jan 13;http://maven.apache.org
+platformwebservices/web-inf;CDDL License;jsr311-api;javax.ws.rs;jsr311-api;01.01.2001;https://jsr311.dev.java.net
+platformwebservices/web-inf;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+platformwebservices/web-inf;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+platformwebservices/web-inf;Common Public License Version 1.0;JUnit;junit;junit;04.08.2002;http://junit.org
+platformwebservices/web-inf;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);JAX-RS provider for JSON content type;org.codehaus.jackson;jackson-jaxrs;01.09.2002;http://jackson.codehaus.org
+platformwebservices/web-inf;GNU Lesser General Public License (LGPL Version 2.1)(The Apache Software License, Version 2.0);Xml Compatibility extensions for Jackson;org.codehaus.jackson;jackson-xc;01.09.2002;http://jackson.codehaus.org
+platformwebservices/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+platformwebservices/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+platformwebservices/web-inf;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2002;http://jackson.codehaus.org
+platformwebservices/web-inf;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2002;http://jackson.codehaus.org
+platformwebservices/web-inf;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+platformwebservices/web-inf;Unknown license;ASM Core;asm;asm;03. Jan;http://asm.objectweb.org/asm/
+platformwebservices/web-inf;Unknown license;Jettison;org.codehaus.jettison;jettison;01. Jan;no url defined
+platformwebservices/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.0.RC3;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+print;BSD;ASM Core;asm;asm;03. Mrz;http://asm.objectweb.org/asm/
+print;CDDL 1.0(GPL2 w/ CPE);JAXB RI;com.sun.xml.bind;jaxb-impl;2.2.1.1;https://jaxb.dev.java.net/
+print;CDDL 1.0(GPL2 w/ CPE);JAXB XJC;com.sun.xml.bind;jaxb-xjc;2.2.1.1;https://jaxb.dev.java.net/
+print;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL;Version 1.0) JAX-WS API;javax.xml.ws;jaxws-api;2.;https://jax-ws.dev.java.net/
+print;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL;Version 1.0) JSR-250 Common Annotations for the JavaTM Platform;javax.annotation;jsr250-api;1.0;http://jcp.org/aboutJava/communityprocess/final/jsr250/index.html
+print;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL;Version 1.0) SOAP with Attachments API Package;javax.xml.soap;saaj-api;01. Mrz;http://java.sun.com/webservices/saaj/index.jsp
+print;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+print;CPL;WSDL4J;wsdl4j;wsdl4j;01.06.2002;http://sf.net/projects/wsdl4j
+print;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+print;The Apache Software License, Version 2.0;Activation 1.1;org.apache.geronimo.specs;geronimo-activation_1.1_spec;01. Jan;http://geronimo.apache.org/maven/specs/geronimo-activation_1.1_spec/1.1
+print;The Apache Software License, Version 2.0;Annotation 1.0;org.apache.geronimo.specs;geronimo-annotation_1.0_spec;01.01.2001;http://geronimo.apache.org/specs/geronimo-annotation_1.0_spec
+print;The Apache Software License, Version 2.0;Apache CXF API;org.apache.cxf;cxf-api;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Command Line Tools Common;org.apache.cxf;cxf-tools-common;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Common Utilities;org.apache.cxf;cxf-common-utilities;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime Core;org.apache.cxf;cxf-rt-core;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime HTTP Transport;org.apache.cxf;cxf-rt-transports-http;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime JAX-WS Frontend;org.apache.cxf;cxf-rt-frontend-jaxws;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime JAXB DataBinding;org.apache.cxf;cxf-rt-databinding-jaxb;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime SOAP Binding;org.apache.cxf;cxf-rt-bindings-soap;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime Simple Frontend;org.apache.cxf;cxf-rt-frontend-simple;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime Transport Common Used Classes;org.apache.cxf;cxf-rt-transports-common;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime WS Addressing;org.apache.cxf;cxf-rt-ws-addr;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache CXF Runtime XML Binding;org.apache.cxf;cxf-rt-bindings-xml;02.04.2002;http://cxf.apache.org
+print;The Apache Software License, Version 2.0;Apache Geronimo JAX-WS 2.2 API;org.apache.geronimo.specs;geronimo-jaxws_2.2_spec;1.0;http://geronimo.apache.org/maven/specs/geronimo-jaxws_2.2_spec/1.0
+print;The Apache Software License, Version 2.0;Apache Neethi;org.apache.neethi;neethi;3.0.1;http://ws.apache.org/neethi/
+print;The Apache Software License, Version 2.0;Apache Velocity;org.apache.velocity;velocity;01. Jul;http://velocity.apache.org/engine/devel/
+print;The Apache Software License, Version 2.0;Commons Collections;commons-collections;commons-collections;03.02.2001;http://commons.apache.org/collections/
+print;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Apr;http://commons.apache.org/lang/
+print;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+print;The Apache Software License, Version 2.0;JMS 1.1;org.apache.geronimo.specs;geronimo-jms_1.1_spec;01.01.2001;http://geronimo.apache.org/specs/geronimo-jms_1.1_spec
+print;The Apache Software License, Version 2.0;Java Rest Annotations;org.codehaus.jra;jra;1.lpha; - http://jra.codehaus.org
+print;The Apache Software License, Version 2.0;JavaMail 1.4;org.apache.geronimo.specs;geronimo-javamail_1.4_spec;01.07.2001;http://geronimo.apache.org/maven/specs/geronimo-javamail_1.4_spec/1.7.1
+print;The Apache Software License, Version 2.0;Streaming API for XML (STAX API 1.0);org.apache.geronimo.specs;geronimo-stax-api_1.0_spec;1.0.1;http://geronimo.apache.org/specs/geronimo-stax-api_1.0_spec
+print;The Apache Software License, Version 2.0;Web Services Metadata 2.0;org.apache.geronimo.specs;geronimo-ws-metadata_2.0_spec;01.01.2003;http://geronimo.apache.org/maven/specs/geronimo-ws-metadata_2.0_spec/1.1.3
+print;The Apache Software License, Version 2.0;Woodstox;org.codehaus.woodstox;woodstox-core-asl;04.01.2001;http://woodstox.codehaus.org
+print;The Apache Software License, Version 2.0;XML Commons Resolver Component;xml-resolver;xml-resolver;01. Feb;http://xml.apache.org/commons/components/resolver/
+print;The Apache Software License, Version 2.0;XmlSchema Core;org.apache.ws.xmlschema;xmlschema-core;2.0;http://ws.apache.org/commons/XmlSchema/xmlschema-core
+print;The BSD License;Stax2 API;org.codehaus.woodstox;stax2-api;03.01.2001;http://woodstox.codehaus.org/StAX2
+print;Unknown license;JavaBeans Activation Framework (JAF);javax.activation;activation;1.0.2;http://java.sun.com/products/javabeans/jaf/index.jsp
+print;Unknown license;Web Services Metadata for the Java Platform API;javax.jws;jsr181;1.0;http://dev2dev.bea.com/webservices/jwsm.html
+print;Unknown license;jaxb-api;javax.xml.bind;jaxb-api;02. Jan;no url defined
+print;Unknown license;saaj-impl;com.sun.xml.messaging.saaj;saaj-impl;01.03.2002;no url defined
+print;Unknown license;spring-web;org.springframework;spring-web;3.0.5.RELEASE;http://www.springsource.org/spring-framework
+printcockpit;ASF 2.0 License;oro;oro;oro;2.0.8;http://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE
+printcockpit;The Apache Software License, Version 2.0;Acegi Security Core;org.acegisecurity;acegi-security;1.0.7;http://acegisecurity.org/acegi-security/
+printcockpit;The Apache Software License, Version 2.0;Codec;commons-codec;commons-codec;01. Mrz;http://jakarta.apache.org/commons/codec/
+printcockpit;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Jan;http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/
+printcockpit;The Apache Software License, Version 2.0;Logging;commons-logging;commons-logging;1.0.4;http://jakarta.apache.org/commons/logging/
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: AOP;org.springframework;spring-aop;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: Beans;org.springframework;spring-beans;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: Context;org.springframework;spring-context;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: Core;org.springframework;spring-core;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: DAO;org.springframework;spring-dao;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: JDBC;org.springframework;spring-jdbc;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: Remoting;org.springframework;spring-remoting;01.02.2009;http://www.springframework.org
+printcockpit;The Apache Software License, Version 2.0;Spring Framework: Support;org.springframework;spring-support;01.02.2009;http://www.springframework.org
+printcockpit;Unknown license;commons-collections;commons-collections;commons-collections;03. Jan;no url defined
+printcockpit;Unknown license;log4j;log4j;log4j;01.02.2009;no url defined
+processing;ASF 2.0 License;mvel;org.mvel;mvel2;2.0.19;http://mvel.codehaus.org/
+processing;Apache 2.0;Quartz Enterprise Job Scheduler;org.quartz-scheduler;quartz;02.01.2002;http://quartz-scheduler.org/quartz/
+processing;GNU LESSER GENERAL PUBLIC LICENSE;c3p0:JDBC DataSources/Resource Pools;c3p0;c3p0;0.9.1.1;http://c3p0.sourceforge.net
+processing;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2001;http://slf4j.org/license.html
+productcockpit/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+productcockpit/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+productcockpit/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+productcockpit/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+productcockpit/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+productcockpit/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+productcockpit/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+solrfacetsearch;(MIT-style;netCDF C library license.) The NetCDF-Java Library;edu.ucar;netcdf;4.in ;http://www.unidata.ucar.edu/software/netcdf-java/
+solrfacetsearch;ASF 2.0 License;ConcurrentLinkedHashMap;com.googlecode.concurrentlinkedhashmap;concurrentlinkedhashmap-lru;01. Feb;http://code.google.com/p/concurrentlinkedhashmap
+solrfacetsearch;ASF 2.0 License;jakarta-regexp;jakarta-regexp;jakarta-regexp;01. Apr;http://jakarta.apache.org/regexp/changes.html
+solrfacetsearch;Apache 2.0 license(CDDL 1.0 license)(EPL 1.0 license)(LGPL 2.1 license)(LGPL 3.0 license);Restlet Core - API and Engine;org.restlet.jee;org.restlet;02.01.2001;http://www.restlet.org/org.restlet
+solrfacetsearch;Apache 2.0 license(CDDL 1.0 license)(EPL 1.0 license)(LGPL 2.1 license)(LGPL 3.0 license);Restlet Extension - Servlet;org.restlet.jee;org.restlet.ext.servlet;02.01.2001;http://www.restlet.org/org.restlet.ext.servlet
+solrfacetsearch;Apache 2;Apache Solr Analysis Extras;org.apache.solr;solr-analysis-extras;04.05.2000;http://lucene.apache.org/solr-parent/solr-analysis-extras
+solrfacetsearch;Apache 2;Apache Solr Clustering;org.apache.solr;solr-clustering;04.05.2000;http://lucene.apache.org/solr-parent/solr-clustering
+solrfacetsearch;Apache 2;Apache Solr Content Extraction Library;org.apache.solr;solr-cell;04.05.2000;http://lucene.apache.org/solr-parent/solr-cell
+solrfacetsearch;Apache 2;Apache Solr Core;org.apache.solr;solr-core;04.05.2000;http://lucene.apache.org/solr-parent/solr-core
+solrfacetsearch;Apache 2;Apache Solr DataImportHandler Extras;org.apache.solr;solr-dataimporthandler-extras;04.05.2000;http://lucene.apache.org/solr-parent/solr-dataimporthandler-extras
+solrfacetsearch;Apache 2;Apache Solr DataImportHandler;org.apache.solr;solr-dataimporthandler;04.05.2000;http://lucene.apache.org/solr-parent/solr-dataimporthandler
+solrfacetsearch;Apache 2;Apache Solr Language Identifier;org.apache.solr;solr-langid;04.05.2000;http://lucene.apache.org/solr-parent/solr-langid
+solrfacetsearch;Apache 2;Apache Solr Solrj;org.apache.solr;solr-solrj;04.05.2000;http://lucene.apache.org/solr-parent/solr-solrj
+solrfacetsearch;Apache 2;Apache Solr Test Framework;org.apache.solr;solr-test-framework;04.05.2000;http://lucene.apache.org/solr-parent/solr-test-framework
+solrfacetsearch;Apache 2;Apache Solr UIMA integration;org.apache.solr;solr-uima;04.05.2000;http://lucene.apache.org/solr-parent/solr-uima
+solrfacetsearch;Apache 2;Apache Solr Velocity;org.apache.solr;solr-velocity;04.05.2000;http://lucene.apache.org/solr-parent/solr-velocity
+solrfacetsearch;Apache 2;ISO Parser;com.googlecode.mp4parser;isoparser;1.C; - http://code.google.com/p/mp4parser/
+solrfacetsearch;Apache 2;Joda time;joda-time;joda-time;02. Feb;http://joda-time.sourceforge.net
+solrfacetsearch;Apache 2;Lucene Common Analyzers;org.apache.lucene;lucene-analyzers-common;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-common
+solrfacetsearch;Apache 2;Lucene Core;org.apache.lucene;lucene-core;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-core
+solrfacetsearch;Apache 2;Lucene Grouping;org.apache.lucene;lucene-grouping;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-grouping
+solrfacetsearch;Apache 2;Lucene Highlighter;org.apache.lucene;lucene-highlighter;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-highlighter
+solrfacetsearch;Apache 2;Lucene ICU Analysis Components;org.apache.lucene;lucene-analyzers-icu;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-icu
+solrfacetsearch;Apache 2;Lucene Join;org.apache.lucene;lucene-join;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-join
+solrfacetsearch;Apache 2;Lucene Kuromoji Japanese Morphological Analyzer;org.apache.lucene;lucene-analyzers-kuromoji;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-kuromoji
+solrfacetsearch;Apache 2;Lucene Memory;org.apache.lucene;lucene-memory;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-memory
+solrfacetsearch;Apache 2;Lucene Miscellaneous;org.apache.lucene;lucene-misc;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-misc
+solrfacetsearch;Apache 2;Lucene Phonetic Filters;org.apache.lucene;lucene-analyzers-phonetic;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-phonetic
+solrfacetsearch;Apache 2;Lucene Queries;org.apache.lucene;lucene-queries;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-queries
+solrfacetsearch;Apache 2;Lucene QueryParsers;org.apache.lucene;lucene-queryparser;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-queryparser
+solrfacetsearch;Apache 2;Lucene Sandbox;org.apache.lucene;lucene-sandbox;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-sandbox
+solrfacetsearch;Apache 2;Lucene Spatial;org.apache.lucene;lucene-spatial;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-spatial
+solrfacetsearch;Apache 2;Lucene Suggest;org.apache.lucene;lucene-suggest;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-suggest
+solrfacetsearch;Apache 2;Lucene Test Framework;org.apache.lucene;lucene-test-framework;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-test-framework
+solrfacetsearch;Apache 2;Lucene UIMA Analysis Components;org.apache.lucene;lucene-analyzers-uima;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-analyzers-uima
+solrfacetsearch;Apache 2;Lucene codecs;org.apache.lucene;lucene-codecs;04.05.2000;http://lucene.apache.org/lucene-parent/lucene-codecs
+solrfacetsearch;Apache 2;Perf4J;org.perf4j;perf4j;0.9.16;http://www.perf4j.org
+solrfacetsearch;Apache 2;language-detection-lib;com.cybozu.labs;langdetect;10.120.112;http://code.google.com/p/language-detection/
+solrfacetsearch;Apache License 2.0;Boilerpipe -- Boilerplate Removal and Fulltext Extraction from HTML pages;de.l3s.boilerpipe;boilerpipe;01.01.2000;http://code.google.com/p/boilerpipe/
+solrfacetsearch;Apache License 2.0;TagSoup;org.ccil.cowan.tagsoup;tagsoup;01.02.2001;http://home.ccil.org/~cowan/XML/tagsoup/
+solrfacetsearch;Apache License;HttpClient;org.apache.httpcomponents;httpclient;04.02.2003;http://hc.apache.org/httpcomponents-client
+solrfacetsearch;Apache License;HttpCore;org.apache.httpcomponents;httpcore;04.02.2002;http://hc.apache.org/httpcomponents-core-ga
+solrfacetsearch;Apache License;HttpMime;org.apache.httpcomponents;httpmime;04.02.2003;http://hc.apache.org/httpcomponents-client
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Continuation;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyontinuation;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-continuation
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Http Utility;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyttp;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-http
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: IO Utility;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyo;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-io
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Security;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyecurity;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-security
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Server Core;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyerver;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-server
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Servlet Handling;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyervlet;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-servlet
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Utilities;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettytil;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-util
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: Webapp Application Support;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyebapp;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-webapp
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty :: XML utilities;Eclipse Public License - Version 1.0) Jetty :;org.eclipse.jettyml;jett8.1.10.v20130312 ;http://www.eclipse.org/jetty/jetty-xml
+solrfacetsearch;Apache Software License - Version 2.0(Eclipse Public License - Version 1.0);Jetty Orbit :: Servlet API;Eclipse Public License - Version 1.0) Jetty Orbit :;org.eclipse.jetty.orbit;javax.servlet:3.0.0.v201112011016;http://www.eclipse.org/jetty/jetty-orbit/javax.servlet
+solrfacetsearch;Apache-style open source license;jdom;jdom;jdom;1.0;http://www.jdom.org/docs/faq.html#a0030
+solrfacetsearch;BSD license;Attributes binder runtime;org.carrot2.attributes;attributes-binder;01.02.2000;http://www.carrot2.org/attributes-binder
+solrfacetsearch;BSD license;Carrot2 Core Mini (algorithms and selected sources);org.carrot2;carrot2-mini;03.08.2000;http://nexus.sonatype.org/oss-repository-hosting.html/carrot2/carrot2-mini
+solrfacetsearch;Bouncy Castle Licence;Bouncy Castle CMS and S/MIME API;org.bouncycastle;bcmail-jdk15;Jan 45;http://www.bouncycastle.org/java.html
+solrfacetsearch;Bouncy Castle Licence;Bouncy Castle Provider;org.bouncycastle;bcprov-jdk15;Jan 45;http://www.bouncycastle.org/java.html
+solrfacetsearch;Common Development and Distribution License (CDDL;v1.0) JavaMail API;javax.mail;mail;01.04.2001;https://glassfish.dev.java.net/javaee5/mail/
+solrfacetsearch;Common Development and Distribution License (CDDLv1.0);JavaBeans Activation Framework (JAF);javax.activation;activation;01. Jan;http://java.sun.com/products/javabeans/jaf/index.jsp
+solrfacetsearch;Common Public License Version 1.0;JUnit;junit;junit;04. Okt;http://junit.org
+solrfacetsearch;ICU License;ICU4J;com.ibm.icu;icu4j;49.1;http://icu-project.org/
+solrfacetsearch;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2001;http://slf4j.org/license.html
+solrfacetsearch;MIT license;SLF4J LOG4J-12 Binding;org.slf4j;slf4j-log4j12;01.06.2001;http://slf4j.org/license.html
+solrfacetsearch;Mozilla Public License 1.1 (MPL 1.1; juniversalchardet;com.googlecode.juniversalchardet;juniversalchardet;1.0.3;http://juniversalchardet.googlecode.com/
+solrfacetsearch;New BSD license;Protocol Buffer Java API;com.google.protobuf;protobuf-java;2.4.0a;http://code.google.com/p/protobuf
+solrfacetsearch;Public Domain;XZ for Java;org.tukaani;xz;01. Feb;http://tukaani.org/xz/java.html
+solrfacetsearch;The Apache Software License, Version 2.0;Apache FontBox;org.apache.pdfbox;fontbox;01.08.2001;http://pdfbox.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Hadoop Annotations;org.apache.hadoop;hadoop-annotations;2.0.;lpha - no url defined
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Hadoop Auth;org.apache.hadoop;hadoop-auth;2.0.;lpha - no url defined
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Hadoop Common;org.apache.hadoop;hadoop-common;2.0.;lpha - no url defined
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Hadoop HDFS;org.apache.hadoop;hadoop-hdfs;2.0.;lpha - no url defined
+solrfacetsearch;The Apache Software License, Version 2.0;Apache JAMES Mime4j (Core);org.apache.james;apache-mime4j-core;0.7.2;http://james.apache.org/mime4j/apache-mime4j-core
+solrfacetsearch;The Apache Software License, Version 2.0;Apache JAMES Mime4j (DOM);org.apache.james;apache-mime4j-dom;0.7.2;http://james.apache.org/mime4j/apache-mime4j-dom
+solrfacetsearch;The Apache Software License, Version 2.0;Apache JempBox;org.apache.pdfbox;jempbox;01.08.2001;http://www.apache.org/pdfbox-parent/jempbox/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Log4j;log4j;log4j;01.02.2017;http://logging.apache.org/log4j/1.2/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache PDFBox;org.apache.pdfbox;pdfbox;01.08.2001;http://www.apache.org/pdfbox-parent/pdfbox/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml-schemas;03. Sep;http://poi.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-ooxml;03. Sep;http://poi.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi-scratchpad;03. Sep;http://poi.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache POI;org.apache.poi;poi;03. Sep;http://poi.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Tika core;org.apache.tika;tika-core;01. Apr;http://tika.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Tika parsers;org.apache.tika;tika-parsers;01. Apr;http://tika.apache.org/
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Tika plugin for Ogg, Vorbis and FLAC;org.gagravarr;vorbis-java-tika;0.1;https://github.com/Gagravarr/VorbisJava
+solrfacetsearch;The Apache Software License, Version 2.0;Apache Velocity;org.apache.velocity;velocity;01. Jul;http://velocity.apache.org/engine/devel/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons CLI;commons-cli;commons-cli;01. Feb;http://commons.apache.org/cli/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Jul;http://commons.apache.org/codec/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons Collections;commons-collections;commons-collections;03.02.2001;http://commons.apache.org/collections/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons Compress;org.apache.commons;commons-compress;01. Mai;http://commons.apache.org/compress/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons FileUpload;commons-fileupload;commons-fileupload;01.02.2001;http://commons.apache.org/fileupload/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons IO;commons-io;commons-io;02. Jan;http://commons.apache.org/io/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons Lang;commons-lang;commons-lang;02. Jun;http://commons.apache.org/lang/
+solrfacetsearch;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+solrfacetsearch;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.07.2004;http://jackson.codehaus.org
+solrfacetsearch;The Apache Software License, Version 2.0;Guava: Google Core Libraries for Java;com.google.guava;guava;14.0.1;http://code.google.com/p/guava-libraries/guava
+solrfacetsearch;The Apache Software License, Version 2.0;HPPC Collections;com.carrotsearch;hppc;0.5.2;http://labs.carrotsearch.com/hppc.html/hppc
+solrfacetsearch;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.07.2004;http://jackson.codehaus.org
+solrfacetsearch;The Apache Software License, Version 2.0;Mahout Collections;org.apache.mahout;mahout-collections;1.0;http://www.apache.org/mahout-collections/
+solrfacetsearch;The Apache Software License, Version 2.0;Mahout Math;org.apache.mahout;mahout-math;0.6;http://mahout.apache.org/mahout-math
+solrfacetsearch;The Apache Software License, Version 2.0;Noggit;org.noggit;noggit;0.5;http://noggit.org
+solrfacetsearch;The Apache Software License, Version 2.0;ROME, RSS and atOM utilitiEs for Java;rome;rome;0.9;https://rome.dev.java.net/
+solrfacetsearch;The Apache Software License, Version 2.0;RandomizedTesting Randomized Runner;com.carrotsearch.randomizedtesting;randomizedtesting-runner;2.0.10;http://labs.carrotsearch.com/randomizedtesting-runner
+solrfacetsearch;The Apache Software License, Version 2.0;Simple XML;org.simpleframework;simple-xml;02. Jul;http://simple.sourceforge.net
+solrfacetsearch;The Apache Software License, Version 2.0;Spatial4J;com.spatial4j;spatial4j;0.3;http://spatial4j.com
+solrfacetsearch;The Apache Software License, Version 2.0;UIMA Annotator: AlchemyAPIAnnotator;org.apache.uima;AlchemyAPIAnnotator;02.03.2001;http://uima.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;UIMA Annotator: OpenCalaisAnnotator;org.apache.uima;OpenCalaisAnnotator;02.03.2001;http://uima.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;UIMA Annotator: Tagger;org.apache.uima;Tagger;02.03.2001;http://uima.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;UIMA Annotator: WhitespaceTokenizer;org.apache.uima;WhitespaceTokenizer;02.03.2001;http://uima.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;UIMA Base: uimaj-core;org.apache.uima;uimaj-core;02.03.2001;http://uima.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;VelocityTools;org.apache.velocity;velocity-tools;2.0;http://velocity.apache.org/tools/devel/
+solrfacetsearch;The Apache Software License, Version 2.0;Woodstox;org.codehaus.woodstox;wstx-asl;03.02.2007;http://woodstox.codehaus.org
+solrfacetsearch;The Apache Software License, Version 2.0;Xerces2 Java Parser;xerces;xercesImpl;02.09.2001;http://xerces.apache.org/xerces2-j
+solrfacetsearch;The Apache Software License, Version 2.0;XmlBeans;org.apache.xmlbeans;xmlbeans;02.03.2000;http://xmlbeans.apache.org
+solrfacetsearch;The Apache Software License, Version 2.0;jsonic;net.arnx;jsonic;01.02.2007;http://jsonic.sourceforge.jp/
+solrfacetsearch;The Apache Software License, Version 2.0;metadata-extractor;com.drewnoakes;metadata-extractor;02.06.2002;http://code.google.com/p/metadata-extractor/
+solrfacetsearch;Unknown license;commons-beanutils;commons-beanutils;commons-beanutils;01.07.2000;no url defined
+solrfacetsearch;Unknown license;dom4j;dom4j;dom4j;01.06.2001;http://dom4j.org
+solrfacetsearch;Unknown license;wstx-asl;woodstox;wstx-asl;03.02.2007;no url defined
+solrfacetsearch;Unknown license;zookeeper;org.apache.zookeeper;zookeeper;03.04.2005;no url defined
+testweb/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;Apache License v2.0;SiteMesh library;org.sitemesh;sitemesh;3.lpha; - http://www.sitemesh.org/sitemesh/
+testweb/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+testweb/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+testweb/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+testweb/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+testweb/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+testweb/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+testweb/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+validation;Apache License 2.0(LGPL 2.1)(MPL 1.1);Javassist;org.javassist;javassist;3.18.A ;http://www.javassist.org/
+validation;Apache License, Version 2.0;Bean Validation API;javax.validation;validation-api;1.0.0.GA;no url defined
+validation;Apache License, Version 2.0;Hibernate Validator;org.hibernate;hibernate-validator;4.2.0.Final;http://validator.hibernate.org/hibernate-validator
+validation;MIT license;SLF4J API Module;org.slf4j;slf4j-api;01.06.2001;http://slf4j.org/license.html
+virtualjdbc;ASF 2.0 License;oro;oro;oro;2.0.8;http://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE
+virtualjdbc;The Apache Software License, Version 2.0;Commons DBCP;commons-dbcp;commons-dbcp;01. Apr;http://commons.apache.org/dbcp/
+virtualjdbc;The Apache Software License, Version 2.0;Commons Pool;commons-pool;commons-pool;01.05.2004;http://commons.apache.org/pool/
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;Apache 2;json-taglib;de.hybris.external;json-taglib;0.4.1;http://json-taglib.sourceforge.net
+yacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+yacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+yacceleratorstorefront/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+yacceleratorstorefront/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;EL;commons-el;commons-el;1.0;http://jakarta.apache.org/commons/el/
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.1.RELEASE;no url defined
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.1.RELEASE;no url defined
+yacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;The MIT License;jsoup;org.jsoup;jsoup;01.06.2001;http://jsoup.org/
+yacceleratorstorefront/web-inf;Unknown license;Logging;commons-logging;commons-logging;1.0.3;http://jakarta.apache.org/commons/logging/
+yacceleratorstorefront/web-inf;Unknown license;granule;de.hybris.external;granule;1.0.9;no url defined
+yacceleratorstorefront/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+yacceleratorstorefront/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yacceleratorstorefront;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2011;http://jackson.codehaus.org
+yacceleratorstorefront;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2011;http://jackson.codehaus.org
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;Apache 2;json-taglib;de.hybris.external;json-taglib;0.4.1;http://json-taglib.sourceforge.net
+yb2bacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+yb2bacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+yb2bacceleratorstorefront/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+yb2bacceleratorstorefront/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;EL;commons-el;commons-el;1.0;http://jakarta.apache.org/commons/el/
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.1.RELEASE;no url defined
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.1.RELEASE;no url defined
+yb2bacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;The MIT License;jsoup;org.jsoup;jsoup;01.06.2001;http://jsoup.org/
+yb2bacceleratorstorefront/web-inf;Unknown license;Logging;commons-logging;commons-logging;1.0.3;http://jakarta.apache.org/commons/logging/
+yb2bacceleratorstorefront/web-inf;Unknown license;granule;de.hybris.external;granule;1.0.9;no url defined
+yb2bacceleratorstorefront/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+yb2bacceleratorstorefront/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+yb2bacceleratorstorefront;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2011;http://jackson.codehaus.org
+yb2bacceleratorstorefront;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2011;http://jackson.codehaus.org
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;Apache 2;json-taglib;de.hybris.external;json-taglib;0.4.1;http://json-taglib.sourceforge.net
+ychinaacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+ychinaacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+ychinaacceleratorstorefront/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+ychinaacceleratorstorefront/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;EL;commons-el;commons-el;1.0;http://jakarta.apache.org/commons/el/
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.4.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.1.RELEASE;no url defined
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.1.RELEASE;no url defined
+ychinaacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;The MIT License;jsoup;org.jsoup;jsoup;01.06.2001;http://jsoup.org/
+ychinaacceleratorstorefront/web-inf;Unknown license;Logging;commons-logging;commons-logging;1.0.3;http://jakarta.apache.org/commons/logging/
+ychinaacceleratorstorefront/web-inf;Unknown license;granule;de.hybris.external;granule;1.0.9;no url defined
+ychinaacceleratorstorefront/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+ychinaacceleratorstorefront/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ychinaacceleratorstorefront;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2011;http://jackson.codehaus.org
+ychinaacceleratorstorefront;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2011;http://jackson.codehaus.org
+ycommercewebservices/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;Apache 2.0;OAuth2 for Spring Security;org.springframework.security.oauth;spring-security-oauth2;1.0.1.RELEASE;http://static.springframework.org/spring-security/oauth/spring-security-oauth2
+ycommercewebservices/web-inf;CDDL License;jsr311-api;javax.ws.rs;jsr311-api;01.01.2001;https://jsr311.dev.java.net
+ycommercewebservices/web-inf;COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDLVersion 1.0)(GNU General Public Library);Streaming API for XML;javax.xml.stream;stax-api;1.; - no url defined
+ycommercewebservices/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+ycommercewebservices/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;CORS Filter;com.thetransactioncompany;cors-filter;01.03.2002;http://software.dzhuvinov.com/cors-filter.html
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;Codec;commons-codec;commons-codec;01. Mrz;http://jakarta.apache.org/commons/codec/
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.09.2002;http://jackson.codehaus.org
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.09.2002;http://jackson.codehaus.org
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;Java Property Utility;com.thetransactioncompany;java-property-utils;01. Jun;http://nexus.sonatype.org/oss-repository-hosting.html/java-property-utils
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;StAX API;stax;stax-api;1.0.1;http://stax.codehaus.org/
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-context-support;org.springframework;spring-context-support;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.1.RELEASE;no url defined
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-security-config;org.springframework.security;spring-security-config;3.1.3.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.1.RELEASE;no url defined
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;The Apache Software License, Version 2.0;spring-web;org.springframework;spring-web;3.1.1.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;Unknown license;Jettison;org.codehaus.jettison;jettison;01. Mrz;http://codehaus.org/jettison/
+ycommercewebservices/web-inf;Unknown license;jstl;jstl;jstl;01. Feb;no url defined
+ycommercewebservices/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.7.RELEASE;http://www.springsource.org/spring-framework
+ycommercewebservices;ASF 2.0 License;oro;oro;oro;2.0.8;http://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE
+ycommercewebservices;Apache Software License, version 1.1(Indiana University Extreme! Lab Software License, vesion 1.1.1)(Public Domain);MXP1: Xml Pull Parser 3rd Edition (XPP3);xpp3;xpp3;1.1.4c;http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/
+ycommercewebservices;Unknown license;kxml2;net.sf.kxml;kxml2;02.01.2008;no url defined
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-aop;org.springframework;spring-aop;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-asm;org.springframework;spring-asm;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-beans;org.springframework;spring-beans;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-context;org.springframework;spring-context;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-core;org.springframework;spring-core;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-expression;org.springframework;spring-expression;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;ASF 2.0 License;spring-webmvc;org.springframework;spring-webmvc;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages (TM) TagLib Implementation;org.glassfish.web;jstl-impl;01. Feb;http://jstl.java.net/jstl-impl
+ytelcoacceleratorstorefront/web-inf;CDDL + GPLv2 with classpath exception;JavaServer Pages(TM) Standard Tag Library;javax.servlet.jsp.jstl;jstl-api;01. Feb;http://jcp.org/en/jsr/detail?id=52
+ytelcoacceleratorstorefront/web-inf;Public Domain;AOP alliance;aopalliance;aopalliance;1.0;http://aopalliance.sourceforge.net
+ytelcoacceleratorstorefront/web-inf;Sun Binary Code Licenses;servlet-api;javax.servlet;servlet-api;02. Mai;no url defined
+ytelcoacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-acl;org.springframework.security;spring-security-acl;3.1.0.RELEASE;no url defined
+ytelcoacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-core;org.springframework.security;spring-security-core;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-crypto;org.springframework.security;spring-security-crypto;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-taglibs;org.springframework.security;spring-security-taglibs;3.1.0.RELEASE;no url defined
+ytelcoacceleratorstorefront/web-inf;The Apache Software License, Version 2.0;spring-security-web;org.springframework.security;spring-security-web;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;The MIT License;jsoup;org.jsoup;jsoup;01.06.2001;http://jsoup.org/
+ytelcoacceleratorstorefront/web-inf;Unknown license;jsp-api;javax.servlet.jsp;jsp-api;02. Jan;no url defined
+ytelcoacceleratorstorefront/web-inf;Unknown license;spring-context-support;org.springframework;spring-context-support;3.1.0.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;Unknown license;spring-jdbc;org.springframework;spring-jdbc;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;Unknown license;spring-tx;org.springframework;spring-tx;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront/web-inf;Unknown license;spring-web;org.springframework;spring-web;3.0.6.RELEASE;http://www.springsource.org/spring-framework
+ytelcoacceleratorstorefront;ASF 2.0 License;cglib;cglib;cglib-nodep;2.1_3;http://cglib.sourceforge.net/
+ytelcoacceleratorstorefront;Apache License;HttpClient;org.apache.httpcomponents;httpclient;04.01.2003;http://hc.apache.org/httpcomponents-client
+ytelcoacceleratorstorefront;Apache License;HttpCore;org.apache.httpcomponents;httpcore;04.01.2004;http://hc.apache.org/httpcomponents-core-ga
+ytelcoacceleratorstorefront;LGPL, version 2.1;Java Native Access Platform;net.java.dev.jna;platform;03.04.2000;https://github.com/twall/jna
+ytelcoacceleratorstorefront;LGPL, version 2.1;Java Native Access;net.java.dev.jna;jna;03.04.2000;https://github.com/twall/jna
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Commons BeanUtils;commons-beanutils;commons-beanutils;01.08.2000;http://commons.apache.org/beanutils/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Commons Codec;commons-codec;commons-codec;01. Apr;http://commons.apache.org/codec/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Commons Collections;commons-collections;commons-collections;03.02.2001;http://commons.apache.org/collections/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Commons Exec;org.apache.commons;commons-exec;01. Jan;http://commons.apache.org/exec/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Commons Logging;commons-logging;commons-logging;01.01.2001;http://commons.apache.org/logging
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Data Mapper for Jackson;org.codehaus.jackson;jackson-mapper-asl;01.07.2003;http://jackson.codehaus.org
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;FindBugs-jsr305;com.google.code.findbugs;jsr305;01.03.2009;http://findbugs.sourceforge.net/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Guava: Google Core Libraries for Java;com.google.guava;guava;10.0.1;http://code.google.com/p/guava-libraries/guava
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Jackson;org.codehaus.jackson;jackson-core-asl;01.07.2003;http://jackson.codehaus.org
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;Lang;commons-lang;commons-lang;02. Mrz;http://jakarta.apache.org/commons/lang/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;ezmorph;net.sf.ezmorph;ezmorph;1.0.6;http://ezmorph.sourceforge.net
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;json-lib;net.sf.json-lib;json-lib;02. Apr;http://json-lib.sourceforge.net
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;selenium-android-driver;org.seleniumhq.selenium;selenium-android-driver;2.16.1;http://selenium.googlecode.com/selenium-android-driver/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;selenium-api;org.seleniumhq.selenium;selenium-api;2.16.1;http://selenium.googlecode.com/selenium-api/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;selenium-iphone-driver;org.seleniumhq.selenium;selenium-iphone-driver;2.16.1;http://selenium.googlecode.com/selenium-iphone-driver/
+ytelcoacceleratorstorefront;The Apache Software License, Version 2.0;selenium-remote-driver;org.seleniumhq.selenium;selenium-remote-driver;2.16.1;http://selenium.googlecode.com/selenium-remote-driver/
+ytelcoacceleratorstorefront;provided without support or warranty;JSON (JavaScript Object Notation);org.json;json;20080701;http://www.json.org/java/index.html
