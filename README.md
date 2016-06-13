@@ -4,7 +4,7 @@
 > Changed few things to make it work for myself.
 
 ### Env setup 
->  Create a docker machine for testing   
+>  Create a docker machine for testing     
 
 ```sh
 docker-machine create --virtualbox-disk-size  700000  --virtualbox-memory "4096"     -d virtualbox dev 
@@ -21,7 +21,8 @@ cd docker-hybris
 ```
 
 ### Download hybris source zip 
-> Download hybris-commerce-suite-5.4.0.4.zip   from  wiki.hybris.org
+> Download hybris-commerce-suite-5.4.0.4.zip   from  wiki.hybris.org   
+> I saw a zip here, but i'm not sure if you can use it or not legally  https://www.swiftcore.com/repo/    at your own risk   
 
 ```sh
 docker build -t "hybris" .
