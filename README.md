@@ -10,8 +10,7 @@
 docker-machine create --virtualbox-disk-size  700000  --virtualbox-memory "4096"     -d virtualbox dev 
 docker-machine start dev
 eval "$(docker-machine env dev)"
-111
-
+```
 
 
 ### Build hybris image
